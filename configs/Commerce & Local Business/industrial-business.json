@@ -1,0 +1,24 @@
+{
+  "templateType": "industrial-business",
+  "brand": {
+    "name": "AREM Industrial",
+    "logo": "/assets/logo-ind.png",
+    "primaryColor": "#10b981"
+  },
+  "i18n": {
+    "defaultLanguage": "en"
+  },
+  "features": {
+    "showNavbar": true,
+    "showHero": true,
+    "showGridServices": true,
+    "showGrid": false,
+    "showRecentProjects": true,
+    "showClients": true,
+    "showSkills": true,
+    "showExperience": true,
+    "showApproach": true,
+    "showFooter": true,
+    "showWhatsapp": true
+  }
+}

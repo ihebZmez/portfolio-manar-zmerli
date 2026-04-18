@@ -1,0 +1,76 @@
+{
+  "brand": {
+    "name": "Distribution Company",
+    "slogan": "Your trusted business partner",
+    "logo": "/assets/logo.png",
+    "favicon": "/assets/favicon.ico"
+  },
+  "i18n": {
+    "defaultLanguage": "fr",
+    "supportedLanguages": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "direction": "ltr"
+  },
+  "theme": {
+    "primaryColor": "#0ea5e9",
+    "secondaryColor": "#111827",
+    "accentColor": "#22c55e",
+    "font": "Inter",
+    "darkMode": false
+  },
+  "contact": {
+    "phone": "+216 00 000 000",
+    "email": "contact@company.tn",
+    "address": "Tunis, Tunisia",
+    "googleMaps": "",
+    "workingHours": "Mon - Fri: 08:00 - 18:00"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "features": {
+    "showNavbar": true,
+    "showHero": true,
+    "showAbout": true,
+    "showServices": true,
+    "showPortfolio": true,
+    "showTestimonials": true,
+    "showPartners": true,
+    "showGallery": false,
+    "showBlog": false,
+    "showFAQ": true,
+    "showContactForm": true,
+    "showWhatsapp": true
+  },
+  "hero": {
+    "ctaText": "Contact Us",
+    "backgroundImage": "/assets/hero.jpg"
+  },
+  "about": {
+    "yearsExperience": 10,
+    "clientsCount": 120,
+    "projectsCount": 300
+  },
+  "seo": {
+    "title": "Distribution Company Tunisia",
+    "description": "Professional company services in Tunisia.",
+    "keywords": [
+      "distribution",
+      "company",
+      "tunisia"
+    ]
+  },
+  "legal": {
+    "companyName": "Distribution Company SARL",
+    "rc": "",
+    "mf": "",
+    "copyright": "© 2026 Distribution Company"
+  }
+}

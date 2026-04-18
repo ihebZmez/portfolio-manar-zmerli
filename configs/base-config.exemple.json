@@ -1,0 +1,64 @@
+{
+  "templateType": "distribution-company",
+  "brand": {
+    "name": "Distribution Company",
+    "slogan": "Your trusted business partner",
+    "logo": "/fm.svg",
+    "favicon": "/assets/favicon.ico",
+    "primaryColor": "#10b981"
+  },
+  "i18n": {
+    "defaultLanguage": "fr",
+    "supportedLanguages": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "direction": "ltr"
+  },
+  "theme": {
+    "primaryColor": "#0ea5e9",
+    "secondaryColor": "#111827",
+    "accentColor": "#22c55e",
+    "font": "Inter",
+    "darkMode": false
+  },
+  "contact": {
+    "phone": "+216 00 000 000",
+    "email": "contact@company.tn",
+    "address": "Tunis, Tunisia",
+    "googleMaps": "",
+    "workingHours": "Mon - Fri: 08:00 - 18:00"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/companyistributioncompany",
+    "instagram": "https://www.instagram.com/companyistributioncompany",
+    "linkedin": "https://www.linkedin.com/company/companyistributioncompany",
+    "tiktok": "https://www.tiktok.com/company/companyistributioncompany",
+    "youtube": "https://www.youtube.com/company/companyistributioncompany"
+  },
+  "features": {
+    "showNavbar": true,
+    "showHero": true,
+    "showGridServices": true,
+    "showGrid": false,
+    "showRecentProjects": true,
+    "showClients": true,
+    "showSkills": true,
+    "showExperience": true,
+    "showApproach": true,
+    "showFooter": true,
+    "showWhatsapp": true
+  },
+  "about": {
+    "yearsExperience": 10,
+    "clientsCount": 120,
+    "projectsCount": 300
+  },
+  "legal": {
+    "companyName": "Distribution Company SARL",
+    "rc": "",
+    "mf": "",
+    "copyright": "© 2026 Distribution Company"
+  }
+}

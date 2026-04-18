@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "title": "AREM GROUP – Leader du développement multi-sectoriel en Tunisie",
+    "description": "AREM GROUP est un groupe tunisien multidisciplinaire fondé en 1979, offrant l’excellence en commerce & distribution, services, hôtellerie & tourisme et promotion immobilière.",
+    "keywords": "AREM GROUP, Tunisie, commerce et distribution, services, hôtellerie, tourisme, promotion immobilière, groupe multidisciplinaire",
+    "whatsappPhone": "+21671808835",
+    "whatsapp": "Bonjour ! Je suis intéressé(e) par les services d’AREM GROUP. Pouvons-nous en discuter ?"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "services": "Services",
+    "activities": "Activités",
+    "expertise": "Expertise",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "fr": "Français",
+    "ar": "العربية"
+  },
+  "hero": {
+    "eyebrow": "Groupe multi-sectoriel tunisien depuis 1979",
+    "title": "AREM GROUP – Leader du développement multi-sectoriel en Tunisie",
+    "subtitle": "Depuis 1979, l’excellence en distribution, services, tourisme et immobilier",
+    "description": "Un groupe corporate avec un historique solide, fondé sur la diversification, la stabilité et une croissance durable.",
+    "ctaContact": "Nous contacter",
+    "ctaServices": "Nos services"
+  },
+  "services": {
+    "sectionTitle": "Nos Services",
+    "sectionDescription": "Un groupe diversifié apportant de la valeur dans le commerce et la distribution, les services, l'hôtellerie et le tourisme, ainsi que la promotion immobilière.",
+    "items": {
+      "commerce": {
+        "title": "Commerce & Distribution",
+        "description": "Nous fournissons des solutions complètes de commerce et de distribution, incluant la vente en gros B2B, la gestion de la chaîne d'approvisionnement pour le commerce de détail, la coordination logistique et l'optimisation de la livraison du dernier kilomètre pour les entreprises de toutes tailles.",
+        "metaDescription": "Solutions professionnelles de commerce et de distribution pour les grossistes B2B, les détaillants et les opérateurs logistiques."
+      },
+      "services": {
+        "title": "Services",
+        "description": "Notre portefeuille de services complet comprend le conseil aux entreprises, la transformation numérique, le support client, le conseil financier et l'externalisation opérationnelle adaptée à vos besoins sectoriels.",
+        "metaDescription": "Services commerciaux complets adaptés à votre secteur, incluant conseil, support et excellence opérationnelle."
+      },
+      "hospitality": {
+        "title": "Hospitality & Tourism",
+        "description": "Nous proposons des solutions complètes de gestion hôtelière et touristique, incluant l'exploitation d'hôtels, les systèmes de réservation de voyages, l'optimisation de l'expérience client, le marketing de destination et le support aux voyagistes.",
+        "metaDescription": "Solutions complètes pour l'hôtellerie et le tourisme destinées aux hôtels, agences de voyage et sociétés de gestion de destinations."
+      },
+      "realEstate": {
+        "title": "Real Estate Development",
+        "description": "Nos services de promotion immobilière couvrent l'acquisition foncière, le financement de projets, la gestion de construction, le marketing immobilier et la livraison d'actifs résidentiels ou commerciaux, de la conception à la réalisation.",
+        "metaDescription": "Services experts en promotion immobilière, de l'acquisition foncière à la livraison de projets résidentiels et commerciaux."
+      },
+      "industry": {
+        "title": "Industry & Operations",
+        "description": "Nous fournissons des solutions industrielles et opérationnelles incluant l'optimisation des lignes de production, la planification de la maintenance, le contrôle qualité, la gestion des installations et la mise en œuvre du lean manufacturing.",
+        "metaDescription": "Solutions industrielles et opérationnelles pour optimiser la production, la maintenance et la gestion des installations."
+      },
+      "HotelAndTourisme": {
+        "title": "Hôtellerie et Tourisme",
+        "description": "Nous proposons des solutions complètes de gestion hôtelière et touristique, incluant l'exploitation d'hôtels, les systèmes de réservation, l'optimisation de l'expérience client et le marketing de destination.",
+        "metaDescription": "Solutions complètes pour l'hôtellerie et le tourisme, adaptées aux hôtels, agences de voyage et gestion de destinations."
+      },
+      "PromotionImmobiliere": {
+        "title": "Promotion Immobilière",
+        "description": "Nos services de promotion immobilière couvrent l'acquisition foncière, le montage financier, la gestion de chantier, la commercialisation et la livraison de projets résidentiels et commerciaux clé en main.",
+        "metaDescription": "Services experts en promotion immobilière, de l'acquisition foncière à la livraison des projets résidentiels et commerciaux."
+      }
+    }
+  },
+  "about": {
+    "tile1Title": "Un groupe tunisien construit sur la diversification, la stabilité et une croissance durable.",
+    "tile1Description": "Fondé en 1979 par Jamel AREM",
+    "tile2Title": "Basé en Tunisie avec un positionnement solide sur plusieurs secteurs.",
+    "tile2Description": "AREM GROUP adopte une vision long terme et orientée valeur",
+    "tile3Title": "Commerce & Distribution",
+    "tile3Description": "Réseaux solides et opérations commerciales fiables",
+    "tile4Title": "Développement multi-sectoriel",
+    "tile4Description": "Domaines clés d’expertise",
+    "tileVisionTitle": "Notre Vision",
+    "tileVisionDescription": "Créer une valeur durable en Tunisie grâce à une croissance disciplinée et à la diversification.",
+    "tileValuesTitle": "Nos Valeurs",
+    "tileValuesDescription": "Innovation | Fiabilité | Croissance | Excellence",
+    "tileGovernanceTitle": "Stabilité & Gouvernance",
+    "tileGovernanceDescription": "Processus clairs, leadership responsable, résilience long terme",
+    "tileDiversificationTitle": "Stratégie de diversification",
+    "tileDiversificationDescription": "Un portefeuille conçu pour croître sur plusieurs secteurs",
+    "tileSinceTitle": "Depuis 1979",
+    "tileSinceDescription": "Un héritage d’exécution, de fiabilité et de croissance continue",
+    "tilePartnershipTitle": "Esprit de partenariat",
+    "tilePartnershipDescription": "Construire la confiance avec clients, fournisseurs et parties prenantes",
+    "tileImpactTitle": "Croissance & Impact",
+    "tileImpactDescription": "Créer des opportunités et contribuer au développement économique",
+    "tileContactTitle": "Contact",
+    "tileContactDescription": "Tél : (+216) 71 80 88 35"
+  },
+  "activities": {
+    "title": "Nos Activités",
+    "cta": "En savoir plus",
+    "items": {
+      "commerceTitle": "Commerce & Distribution",
+      "commerceDescription": "Nos activités commerciales et de distribution reposent sur la fiabilité opérationnelle, des réseaux solides et un engagement durable en performance.",
+      "servicesTitle": "Services",
+      "servicesDescription": "Nous assurons des services orientés client, soutenus par un SAV réactif et une excellence opérationnelle.",
+      "hospitalityTitle": "Hôtellerie & Tourisme",
+      "hospitalityDescription": "AREM GROUP exprime sa passion pour l’hôtellerie et le tourisme à travers des projets haut de gamme et des expériences premium.",
+      "realEstateTitle": "Promotion Immobilière",
+      "realEstateDescription": "Nous accompagnons la promotion immobilière via la recherche d’opportunités, une exécution rigoureuse et une création de valeur long terme."
+    }
+  },
+  "testimonials": {
+    "title": "Ce que disent nos partenaires",
+    "items": {
+      "t1Quote": "AREM GROUP est un partenaire fiable : une exécution structurée, une livraison constante et un engagement fort envers la qualité.",
+      "t1Name": "Client corporate",
+      "t1Role": "Commerce & Distribution",
+      "t2Quote": "Des équipes professionnelles et une gouvernance claire. Travailler avec AREM GROUP est efficace, transparent et orienté résultats.",
+      "t2Name": "Partenaire business",
+      "t2Role": "Services",
+      "t3Quote": "Un historique solide et une vision long terme. AREM GROUP apporte stabilité et croissance sur plusieurs secteurs.",
+      "t3Name": "Investisseur",
+      "t3Role": "Hôtellerie & Immobilier"
+    }
+  },
+  "expertise": {
+    "title": "Notre Expertise",
+    "categories": {
+      "commerce": "Commerce & Distribution",
+      "services": "Services",
+      "hospitality": "Hôtellerie & Tourisme",
+      "realEstate": "Promotion Immobilière",
+      "industry": "Industrie & Opérations"
+    },
+    "items": {
+      "industry": {
+        "reliability": "Your reliability text here",
+        "innovation": "Your innovation text here",
+        "qualitySafety": "Your quality safety text here",
+        "industrialOperations": "Your industrial Operations text here"
+      },
+      "realEstate": {
+        "execution": "Your execution text here",
+        "projectSourcing": "Your projectSourcing text here",
+        "assetValue": "Your assetValue text here",
+        "propertyDevelopment": "Your propertyDevelopment text here"
+      },
+      "hospitality": {
+        "operations": "Your operations text here",
+        "tourismDevelopment": "Your tourismDevelopment text here",
+        "guestExperience": "Your guestExperience text here",
+        "luxuryHotels": "Your luxuryHotels text here"
+      },
+      "services": {
+        "operationalExcellence": "Your operations text here",
+        "maintenance": "Your tourismDevelopment text here",
+        "customerService": "Your guestExperience text here",
+        "afterSales": "Your afterSales text here"
+      },
+      "commerce": {
+        "procurement": "Your operations text here",
+        "logistics": "Your tourismDevelopment text here",
+        "retail": "Your guestExperience text here",
+        "distribution": "Your afterSales text here"
+      }
+    }
+  },
+  "milestones": {
+    "title": "Nos Jalons",
+    "ctaPrefix": "Pour plus d’informations sur AREM GROUP,",
+    "ctaLink": "visitez notre site officiel",
+    "items": {
+      "m1Title": "1979 — Fondation",
+      "m1Desc": "Fondé en 1979 par Jamel AREM, marquant le début de l’aventure du groupe en commerce et distribution.",
+      "m1Tags": "Fondé en 1979 | Commerce & Distribution | STEQ",
+      "m2Title": "Diversification — Industrie",
+      "m2Desc": "Expansion vers l’industrie grâce à une diversification continue et au développement des opérations.",
+      "m2Tags": "Industrie | Diversification | Opérations",
+      "m3Title": "Croissance — Services",
+      "m3Desc": "Investissement dans les services avec un fort focus satisfaction client et SAV performant.",
+      "m3Tags": "Services | Orientation client | SAV",
+      "m4Title": "Passion — Hôtellerie & Tourisme",
+      "m4Desc": "Développement de projets hôteliers premium, reflétant l’engagement d’AREM GROUP pour des expériences haut de gamme.",
+      "m4Tags": "Hôtels | Tourisme | Expérience premium",
+      "m5Title": "Expansion — Promotion Immobilière",
+      "m5Desc": "Entrée dans la promotion immobilière via la recherche d’opportunités et une exécution rigoureuse.",
+      "m5Tags": "Immobilier | Développement | Création de valeur",
+      "m6Title": "Aujourd’hui — Groupe multi-sectoriel",
+      "m6Desc": "Un positionnement fort avec un focus constant sur stabilité, gouvernance et croissance durable en Tunisie.",
+      "m6Tags": "Diversification | Stabilité | Croissance"
+    }
+  },
+  "approach": {
+    "title": "Notre Approche",
+    "step1": "Étape 1",
+    "step2": "Étape 2",
+    "step3": "Étape 3",
+    "card1Title": "Planification stratégique",
+    "card1Desc": "Nous alignons objectifs, parties prenantes et priorités afin de livrer des résultats mesurables. Nous structurons la feuille de route, définissons les jalons et sécurisons l’exécution.",
+    "card2Title": "Exécution & opérations",
+    "card2Desc": "Nous exécutons avec discipline et transparence, en coordonnant équipes et ressources pour livrer des résultats fiables, avec qualité et constance.",
+    "card3Title": "Performance & croissance",
+    "card3Desc": "Nous visons la performance long terme : amélioration continue, excellence opérationnelle et croissance durable."
+  },
+  "footer": {
+    "title": "Prêt à écrire votre prochaine histoire de croissance avec AREM GROUP ?",
+    "subtitle": "Contactez notre équipe et découvrez comment nous soutenons le développement multi-sectoriel en Tunisie.",
+    "address": "5 Rue 8603, Charguia, 2035 Ariana, Tunisie",
+    "phone": "(+216) 71 80 88 35",
+    "website": "http://www.aremgroup.com",
+    "cta": "Nous contacter",
+    "copyright": "Tous droits réservés."
+  },
+  "whatsapp": {
+    "tooltip": "Discutez avec nous sur WhatsApp"
+  }
+}
