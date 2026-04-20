@@ -11,66 +11,67 @@ export const buildNavItems = (t: (key: string) => string) => [
 export const gridServicesItems = [
   {
     id: 1,
-    titleKey: "services.items.commerce.title",
-    descriptionKey: "services.items.commerce.description",
+    titleKey: "services.items.DataCleaning.title",
+    descriptionKey: "services.items.DataCleaning.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.commerce.metaDescription",
+    metaDescriptionKey: "services.items.DataCleaning.metaDescription",
   },
   {
     id: 2,
-    titleKey: "services.items.services.title",
-    descriptionKey: "services.items.services.description",
+    titleKey: "services.items.ExploratoryDataAnalysis.title",
+    descriptionKey: "services.items.ExploratoryDataAnalysis.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.services.metaDescription",
+    metaDescriptionKey:
+      "services.items.ExploratoryDataAnalysis.metaDescription",
   },
   {
     id: 3,
-    titleKey: "services.items.hospitality.title",
-    descriptionKey: "services.items.hospitality.description",
+    titleKey: "services.items.DataVisualization.title",
+    descriptionKey: "services.items.DataVisualization.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.hospitality.metaDescription",
+    metaDescriptionKey: "services.items.DataVisualization.metaDescription",
   },
   {
     id: 4,
-    titleKey: "services.items.realEstate.title",
-    descriptionKey: "services.items.realEstate.description",
+    titleKey: "services.items.StatisticalModeling.title",
+    descriptionKey: "services.items.StatisticalModeling.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.realEstate.metaDescription",
+    metaDescriptionKey: "services.items.StatisticalModeling.metaDescription",
   },
   {
     id: 5,
-    titleKey: "services.items.industry.title",
-    descriptionKey: "services.items.industry.description",
+    titleKey: "services.items.BusinessIntelligence.title",
+    descriptionKey: "services.items.BusinessIntelligence.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.industry.metaDescription",
+    metaDescriptionKey: "services.items.BusinessIntelligence.metaDescription",
   },
   {
     id: 6,
-    titleKey: "services.items.HotelAndTourisme.title",
-    descriptionKey: "services.items.HotelAndTourisme.description",
+    titleKey: "services.items.AutomatedReporting.title",
+    descriptionKey: "services.items.AutomatedReporting.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.HotelAndTourisme.metaDescription",
+    metaDescriptionKey: "services.items.AutomatedReporting.metaDescription",
   },
   {
     id: 7,
-    titleKey: "services.items.PromotionImmobiliere.title",
-    descriptionKey: "services.items.PromotionImmobiliere.description",
+    titleKey: "services.items.DataInsightsConsulting.title",
+    descriptionKey: "services.items.DataInsightsConsulting.description",
     className: "",
     titleClassName: "text-center",
     headingLevel: "h1" as const,
-    metaDescriptionKey: "services.items.PromotionImmobiliere.metaDescription",
+    metaDescriptionKey: "services.items.DataInsightsConsulting.metaDescription",
   },
 ];
 
@@ -207,56 +208,121 @@ export const projects = [
     titleKey: "activities.items.sales_dashboard_title",
     desKey: "activities.items.sales_dashboard_description",
     img: "/project_display/data_sales_dashboard.jpg",
-    iconLists: ["/Tech/python.svg", "/Tech/powerbi.svg", "/Tech/sql.svg"],
+    iconLists: [
+      "/Tech/Power-BI.svg",
+      "/Tech/SQL.svg",
+      "/Tech/Excel.svg",
+      "/Tech/Pie-Chart.svg",
+    ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
+
   {
     id: 2,
     titleKey: "activities.items.customer_segmentation_title",
     desKey: "activities.items.customer_segmentation_description",
     img: "/project_display/data_customer_segmentation.jpg",
-    iconLists: ["/Tech/python.svg", "/Tech/pandas.svg", "/Tech/sklearn.svg"],
+    iconLists: [
+      "/Tech/Python.svg",
+      "/Tech/Pandas.svg",
+      "/Tech/NumPy.svg",
+      "/Tech/Seaborn.svg",
+      "/Tech/Statistics.svg",
+    ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
+
   {
     id: 3,
     titleKey: "activities.items.financial_analysis_title",
     desKey: "activities.items.financial_analysis_description",
     img: "/project_display/data_financial_analysis.jpg",
-    iconLists: ["/Tech/excel.svg", "/Tech/sql.svg", "/Tech/powerbi.svg"],
+    iconLists: [
+      "/Tech/Excel.svg",
+      "/Tech/Tableau.svg",
+      "/Tech/SQL-Database-Generic.svg",
+      "/Tech/Statistics.svg",
+    ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
+
   {
     id: 4,
     titleKey: "activities.items.marketing_analytics_title",
     desKey: "activities.items.marketing_analytics_description",
     img: "/project_display/data_marketing_analysis.jpg",
     iconLists: [
-      "/Tech/python.svg",
-      "/Tech/matplotlib.svg",
-      "/Tech/seaborn.svg",
+      "/Tech/Python.svg",
+      "/Tech/Matplotlib.svg",
+      "/Tech/Seaborn.svg",
+      "/Tech/Jupyter.svg",
     ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
+
   {
     id: 5,
     titleKey: "activities.items.hr_analytics_title",
     desKey: "activities.items.hr_analytics_description",
     img: "/project_display/data_hr_analytics.jpg",
-    iconLists: ["/Tech/sql.svg", "/Tech/powerbi.svg", "/Tech/excel.svg"],
+    iconLists: [
+      "/Tech/PostgreSQL.svg",
+      "/Tech/Power-BI.svg",
+      "/Tech/Clean-Database.svg",
+      "/Tech/Data-Warehouse.svg",
+    ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
+
   {
     id: 6,
     titleKey: "activities.items.predictive_modeling_title",
     desKey: "activities.items.predictive_modeling_description",
     img: "/project_display/data_predictive_model.jpg",
-    iconLists: ["/Tech/python.svg", "/Tech/sklearn.svg", "/Tech/r.svg"],
+    iconLists: [
+      "/Tech/Python.svg",
+      "/Tech/R.svg",
+      "/Tech/IBM-SPSS-Statistics.svg",
+      "/Tech/SAS-svgrepo.svg",
+      "/Tech/Apache-Spark.svg",
+    ],
+    linkNameKey: "activities.cta",
+    linkProject: "#",
+  },
+
+  {
+    id: 7,
+    titleKey: "activities.items.data_engineering_title",
+    desKey: "activities.items.data_engineering_description",
+    img: "/project_display/data_engineering.jpg",
+    iconLists: [
+      "/Tech/Apache-Airflow.svg",
+      "/Tech/DBT.svg",
+      "/Tech/Data-Warehouse.svg",
+      "/Tech/Docker.svg",
+      "/Tech/AWS.svg",
+    ],
+    linkNameKey: "activities.cta",
+    linkProject: "#",
+  },
+
+  {
+    id: 8,
+    titleKey: "activities.items.database_management_title",
+    desKey: "activities.items.database_management_description",
+    img: "/project_display/data_database_management.jpg",
+    iconLists: [
+      "/Tech/Mysql.svg",
+      "/Tech/Mongodb.svg",
+      "/Tech/PostgreSQL.svg",
+      "/Tech/Git.svg",
+      "/Tech/GitHub.svg",
+    ],
     linkNameKey: "activities.cta",
     linkProject: "#",
   },
@@ -285,188 +351,246 @@ export const testimonials = [
     titleKey: "testimonials.items.t3Role",
     image_profil: "/profile.svg",
   },
+  {
+    quoteKey: "testimonials.items.t3Quote",
+    nameKey: "testimonials.items.t3Name",
+    titleKey: "testimonials.items.t3Role",
+    image_profil: "/profile.svg",
+  },
+  {
+    quoteKey: "testimonials.items.t3Quote",
+    nameKey: "testimonials.items.t3Name",
+    titleKey: "testimonials.items.t3Role",
+    image_profil: "/profile.svg",
+  },
+  {
+    quoteKey: "testimonials.items.t3Quote",
+    nameKey: "testimonials.items.t3Name",
+    titleKey: "testimonials.items.t3Role",
+    image_profil: "/profile.svg",
+  },
 ];
-
 /* =========================
-   SKILLS (DATA ANALYST PROFILE)
+   CORE ANALYTICS SKILLS
 ========================= */
 
 export const programmer_skills = [
   {
     id: 1,
-    nameKey: "expertise.items.services.dataCleaning",
+    nameKey: "expertise.items.analytics.dataCleaning",
     name: "Data Cleaning & Preparation",
     designation: "",
-    image: "/Administration_Gestion.svg",
+    image: "/Tech/Clean-Database.svg",
   },
   {
     id: 2,
-    nameKey: "expertise.items.services.eda",
+    nameKey: "expertise.items.analytics.eda",
     name: "Exploratory Data Analysis",
     designation: "",
-    image: "/stream.svg",
+    image: "/Tech/Pie-Chart.svg",
   },
   {
     id: 3,
-    nameKey: "expertise.items.services.visualization",
+    nameKey: "expertise.items.visualization.matplotlib",
     name: "Data Visualization",
     designation: "",
-    image: "/grid.svg",
+    image: "/Tech/Matplotlib.svg",
   },
   {
     id: 4,
-    nameKey: "expertise.items.services.reporting",
+    nameKey: "expertise.items.bi.powerbi",
     name: "Reporting & Dashboards",
     designation: "",
-    image: "/Finances_Comptabilite_resized.svg",
-  },
-];
-
-export const framework_skills = [
-  {
-    id: 1,
-    nameKey: "expertise.items.commerce.python",
-    name: "Python (Pandas, NumPy)",
-    designation: "",
-    image: "/stream.svg",
-  },
-  {
-    id: 2,
-    nameKey: "expertise.items.commerce.sql",
-    name: "SQL",
-    designation: "",
-    image: "/grid.svg",
-  },
-  {
-    id: 3,
-    nameKey: "expertise.items.commerce.powerbi",
-    name: "Power BI",
-    designation: "",
-    image: "/Administration_Gestion.svg",
-  },
-  {
-    id: 4,
-    nameKey: "expertise.items.commerce.tableau",
-    name: "Tableau",
-    designation: "",
-    image: "/Finances_Comptabilite_resized.svg",
+    image: "/Tech/Power-BI.svg",
   },
 ];
 
 /* =========================
-   DATABASE / ML SKILLS
+   ANALYTICS TOOLS & LANGUAGES
+========================= */
+
+export const framework_skills = [
+  {
+    id: 1,
+    nameKey: "expertise.items.engineering.python",
+    name: "Python",
+    designation: "",
+    image: "/Tech/Python.svg",
+  },
+  {
+    id: 2,
+    nameKey: "expertise.items.engineering.sql",
+    name: "SQL",
+    designation: "",
+    image: "/Tech/SQL.svg",
+  },
+  {
+    id: 3,
+    nameKey: "expertise.items.engineering.pandas",
+    name: "Pandas",
+    designation: "",
+    image: "/Tech/Pandas.svg",
+  },
+  {
+    id: 4,
+    nameKey: "expertise.items.engineering.numpy",
+    name: "NumPy",
+    designation: "",
+    image: "/Tech/NumPy.svg",
+  },
+];
+
+/* =========================
+   DATA SCIENCE / MODELING
 ========================= */
 
 export const database_skills = [
   {
     id: 1,
-    nameKey: "expertise.items.realEstate.statisticalModeling",
-    name: "Statistical Modeling",
+    nameKey: "expertise.items.statistics.statistics",
+    name: "Statistical Analysis",
     designation: "",
-    image: "/re.svg",
+    image: "/Tech/Statistics.svg",
   },
   {
     id: 2,
-    nameKey: "expertise.items.realEstate.dataMining",
-    name: "Data Mining",
+    nameKey: "expertise.items.datascience.machineLearning",
+    name: "Machine Learning",
     designation: "",
-    image: "/Finances_Comptabilite_resized.svg",
+    image: "/Tech/Seaborn.svg",
   },
   {
     id: 3,
-    nameKey: "expertise.items.realEstate.ml",
-    name: "Machine Learning",
+    nameKey: "expertise.items.statistics.r",
+    name: "R",
     designation: "",
-    image: "/grid.svg",
+    image: "/Tech/R.svg",
   },
   {
     id: 4,
-    nameKey: "expertise.items.realEstate.insights",
-    name: "Business Insights",
+    nameKey: "expertise.items.statistics.spss",
+    name: "IBM SPSS",
     designation: "",
-    image: "/Administration_Gestion.svg",
+    image: "/Tech/IBM-SPSS-Statistics.svg",
   },
 ];
 
 /* =========================
-   OTHER SKILLS
+   DATA ENGINEERING / BI TOOLS
 ========================= */
 
 export const tools_on_skills = [
   {
     id: 1,
-    nameKey: "expertise.items.industry.dataStorytelling",
-    name: "Data Storytelling",
+    nameKey: "expertise.items.bi.tableau",
+    name: "Tableau",
     designation: "",
-    image: "/grid.svg",
+    image: "/Tech/Tableau.svg",
   },
   {
     id: 2,
-    nameKey: "expertise.items.industry.kpi",
-    name: "KPI Tracking",
+    nameKey: "expertise.items.bi.excel",
+    name: "Excel",
     designation: "",
-    image: "/Administration_Gestion.svg",
+    image: "/Tech/Excel.svg",
   },
   {
     id: 3,
-    nameKey: "expertise.items.industry.automation",
-    name: "Automation (ETL)",
+    nameKey: "expertise.items.engineering.jupyter",
+    name: "Jupyter Notebook",
     designation: "",
-    image: "/stream.svg",
-  },
-  {
-    id: 4,
-    nameKey: "expertise.items.industry.decision",
-    name: "Decision Support",
-    designation: "",
-    image: "/Finances_Comptabilite_resized.svg",
+    image: "/Tech/Jupyter.svg",
   },
 ];
 
 /* =========================
-   COMPANIES (kept structure)
+   DATA PLATFORM / MODERN STACK
 ========================= */
+
+export const know_some_skills = [
+  {
+    id: 1,
+    nameKey: "expertise.items.engineering.airflow",
+    name: "Apache Airflow",
+    designation: "",
+    image: "/Tech/Apache-Airflow.svg",
+  },
+  {
+    id: 2,
+    nameKey: "expertise.items.engineering.spark",
+    name: "Apache Spark",
+    designation: "",
+    image: "/Tech/Apache-Spark.svg",
+  },
+  {
+    id: 3,
+    nameKey: "expertise.items.engineering.dbt",
+    name: "dbt",
+    designation: "",
+    image: "/Tech/DBT.svg",
+  },
+  {
+    id: 4,
+    nameKey: "expertise.items.engineering.aws",
+    name: "AWS",
+    designation: "",
+    image: "/Tech/AWS.svg",
+  },
+  {
+    id: 5,
+    nameKey: "expertise.items.engineering.docker",
+    name: "Docker",
+    designation: "",
+    image: "/Tech/Docker.svg",
+  },
+  {
+    id: 6,
+    nameKey: "expertise.items.engineering.git",
+    name: "Git",
+    designation: "",
+    image: "/Tech/Git.svg",
+  },
+  {
+    id: 7,
+    nameKey: "expertise.items.engineering.github",
+    name: "GitHub",
+    designation: "",
+    image: "/Tech/GitHub.svg",
+  },
+];
 
 export const companies = [
   {
     id: 1,
     nameKey: "services.items.commerce.title",
     designation: "",
-    image: "/companies_display/steg.svg",
-    img: "/companies_display/steg.svg",
-    nameImg: "/companies_display/stegName.svg",
+    image: "/companies_display/adp.png",
+    img: "/companies_display/adp.png",
+    nameImg: "/companies_display/adpName.svg",
   },
   {
     id: 2,
     nameKey: "services.items.services.title",
     designation: "",
-    image: "/companies_display/byly.svg",
-    img: "/companies_display/byly.svg",
-    nameImg: "/companies_display/bylyName.svg",
+    image: "/companies_display/Club_Nautique.png",
+    img: "/companies_display/Club_Nautique.png",
+    nameImg: "/companies_display/Club_NautiqueName.svg",
   },
   {
     id: 3,
     nameKey: "services.items.hospitality.title",
     designation: "",
-    image: "/companies_display/nivea.svg",
-    img: "/companies_display/nivea.svg",
-    nameImg: "/companies_display/niveaName.svg",
+    image: "/companies_display/ISEC.png",
+    img: "/companies_display/ISEC.png",
+    nameImg: "/companies_display/ISECName.svg",
   },
   {
     id: 4,
     nameKey: "services.items.realEstate.title",
     designation: "",
-    image: "/companies_display/mp3.svg",
-    img: "/companies_display/mp3.svg",
-    nameImg: "/companies_display/mp3Name.svg",
-  },
-  {
-    id: 5,
-    nameKey: "services.items.realEstate.title",
-    designation: "",
-    image: "/companies_display/septona.svg",
-    img: "/companies_display/septona.svg",
-    nameImg: "/companies_display/septonaName.svg",
+    image: "/companies_display/Psychology.png",
+    img: "/companies_display/Psychology.png",
+    nameImg: "/companies_display/PsychologyName.svg",
   },
 ];
 

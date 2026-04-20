@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "مجموعة آرم – رائدة في التنمية متعددة القطاعات في تونس",
-    "description": "مجموعة آرم هي مجموعة تونسية متعددة الاختصاصات تأسست سنة 1979، تقدم التميز في التجارة والتوزيع والخدمات والضيافة والسياحة والتطوير العقاري.",
-    "keywords": "مجموعة آرم, تونس, التجارة والتوزيع, الخدمات, الضيافة, السياحة, التطوير العقاري, مجموعة متعددة القطاعات",
-    "whatsappPhone": "+21671808835",
-    "whatsapp": "مرحبًا! أنا مهتم بخدمات مجموعة آرم. هل يمكننا التحدث؟"
+    "title": "منار الزمرلي – معرض أعمال محللة بيانات",
+    "description": "منار الزمرلي محللة بيانات مقيمة في تونس، متخصصة في تحليل البيانات والتصور البياني وذكاء الأعمال.",
+    "keywords": "محلل بيانات، تونس، Power BI، Python، SQL، تصور البيانات، ذكاء الأعمال، منار الزمرلي",
+    "whatsappPhone": "+21600000000",
+    "whatsapp": "مرحبًا! أود مناقشة احتياجات تحليل البيانات الخاصة بي معك."
   },
   "nav": {
     "home": "الرئيسية",
-    "about": "من نحن",
+    "about": "من أنا",
     "services": "الخدمات",
-    "activities": "الأنشطة",
-    "expertise": "الخبرات",
-    "testimonials": "آراء الشركاء",
-    "contact": "تواصل معنا"
+    "activities": "المشاريع",
+    "expertise": "المهارات",
+    "testimonials": "آراء العملاء",
+    "contact": "تواصل معي"
   },
   "language": {
     "label": "اللغة",
@@ -22,202 +22,244 @@
     "ar": "العربية"
   },
   "hero": {
-    "eyebrow": "مجموعة تونسية متعددة القطاعات منذ 1979",
-    "title": "مجموعة آرم – رائدة في التنمية متعددة القطاعات في تونس",
-    "subtitle": "منذ 1979، نقدم التميز في التوزيع والخدمات والسياحة والعقار",
-    "description": "مجموعة مؤسساتية بتاريخ قوي مبني على التنويع والاستقرار والنمو المستدام.",
-    "ctaContact": "تواصل معنا",
-    "ctaServices": "خدماتنا"
+    "eyebrow": "محللة بيانات في تونس",
+    "title": "منار الزمرلي – تحويل البيانات إلى قرارات",
+    "subtitle": "تحليل البيانات | ذكاء الأعمال | Python | SQL | Power BI",
+    "description": "أساعد الشركات على فهم بياناتها واتخاذ قرارات أفضل عبر تحليلات واضحة وقابلة للتنفيذ.",
+    "ctaContact": "تواصل معي",
+    "ctaServices": "عرض المشاريع"
   },
   "services": {
-    "sectionTitle": "خدماتنا",
-    "sectionDescription": "مجموعة متنوعة تقدم قيمة في مجالات التجارة والتوزيع والخدمات والضيافة والسياحة وتطوير العقارات.",
+    "sectionTitle": "خدماتي",
+    "sectionDescription": "حلول متكاملة لتحليل البيانات لتحويل المعلومات إلى رؤى عملية.",
     "items": {
-      "commerce": {
-        "title": "التجارة والتوزيع",
-        "description": "نقدم حلولاً متكاملة للتجارة والتوزيع تشمل تجارة الجملة بين الشركات (B2B)، وإدارة سلسلة التوريد للبيع بالتجزئة، والتنسيق اللوجستي، وتحسين التسليم في الميل الأخير للشركات بجميع أحجامها.",
-        "metaDescription": "حلول تجارة وتوزيع احترافية لتجار الجملة (B2B) وتجار التجزئة ومشغلي سلاسل التوريد."
+      "DataCleaning": {
+        "title": "تنظيف البيانات",
+        "description": "تنظيف وتنظيم البيانات لضمان جودتها وجاهزيتها للتحليل.",
+        "metaDescription": "خدمات تنظيف وإعداد البيانات لضمان تحليلات موثوقة."
       },
-      "services": {
-        "title": "الخدمات",
-        "description": "تشمل محفظتنا الشاملة من الخدمات استشارات الأعمال، والتحول الرقمي، ودعم العملاء، والاستشارات المالية، والاستعانة بمصادر خارجية للعمليات حسب احتياجات قطاعك.",
-        "metaDescription": "خدمات أعمال شاملة مصممة حسب قطاعك، تشمل الاستشارات والدعم والتميز التشغيلي."
+      "ExploratoryDataAnalysis": {
+        "title": "تحليل البيانات الاستكشافي",
+        "description": "استكشاف البيانات لاكتشاف الاتجاهات والأنماط والقيم الشاذة.",
+        "metaDescription": "تحليل استكشافي متعمق لفهم البيانات بشكل أفضل."
       },
-      "hospitality": {
-        "title": "الضيافة والسياحة",
-        "description": "نقدم حلولاً كاملة لإدارة الضيافة والسياحة تشمل تشغيل الفنادق، وأنظمة حجز السفر، وتحسين تجربة النزلاء، وتسويق الوجهات، ودعم منظمي الرحلات السياحية.",
-        "metaDescription": "حلول ضيافة وسياحة متكاملة للفنادق ووكالات السفر وشركات إدارة الوجهات."
+      "DataVisualization": {
+        "title": "تصور البيانات",
+        "description": "إنشاء لوحات معلومات وتقارير تفاعلية باستخدام Power BI وTableau.",
+        "metaDescription": "تصميم لوحات بيانات تفاعلية وحلول تصور احترافية."
       },
-      "realEstate": {
-        "title": "تطوير العقارات",
-        "description": "تغطي خدمات تطوير العقارات لدينا شراء الأراضي، وتمويل المشاريع، وإدارة البناء، والتسويق العقاري، وتسليم الأصول السكنية أو التجارية من الفكرة إلى الإنجاز.",
-        "metaDescription": "خدمات متخصصة في تطوير العقارات من شراء الأراضي إلى تسليم المشاريع السكنية والتجارية."
+      "StatisticalModeling": {
+        "title": "النمذجة الإحصائية",
+        "description": "بناء نماذج إحصائية لتحليل السلوك والتنبؤ بالنتائج.",
+        "metaDescription": "حلول نمذجة إحصائية وتحليل تنبؤي."
       },
-      "industry": {
-        "title": "الصناعة والعمليات",
-        "description": "نقدم حلولاً صناعية وتشغيلية تشمل تحسين خطوط الإنتاج، وتخطيط الصيانة، ومراقبة الجودة، وإدارة المرافق، وتطبيق التصنيع الخالي من الهدر.",
-        "metaDescription": "حلول صناعية وتشغيلية لتحسين الإنتاج والصيانة وإدارة المرافق."
+      "BusinessIntelligence": {
+        "title": "ذكاء الأعمال",
+        "description": "تصميم حلول ذكاء الأعمال لمتابعة الأداء ودعم اتخاذ القرار.",
+        "metaDescription": "حلول ذكاء الأعمال لمراقبة الأداء واتخاذ القرار."
       },
-      "HotelAndTourisme": {
-        "title": "الضيافة والسياحة",
-        "description": "نقدم حلولاً شاملة لإدارة الفنادق والسياحة تشمل تشغيل الفنادق وأنظمة الحجز وتحسين تجربة العملاء وتسويق الوجهات السياحية.",
-        "metaDescription": "حلول متكاملة للفنادق والسياحة مصممة للفنادق ووكالات السفر وإدارة الوجهات."
+      "AutomatedReporting": {
+        "title": "التقارير الآلية",
+        "description": "أتمتة التقارير لتوفير متابعة سريعة وفعالة لمؤشرات الأداء.",
+        "metaDescription": "أتمتة التقارير ولوحات متابعة مؤشرات الأداء."
       },
-      "PromotionImmobiliere": {
-        "title": "تطوير العقارات",
-        "description": "تغطي خدمات تطوير العقارات لدينا شراء الأراضي والتمويل وإدارة المشاريع والتسويق وتسليم المشاريع السكنية والتجارية الجاهزة.",
-        "metaDescription": "خدمات متخصصة في تطوير العقارات من شراء الأراضي إلى تسليم المشاريع السكنية والتجارية."
+      "DataInsightsConsulting": {
+        "title": "استشارات تحليل البيانات",
+        "description": "مساعدة الشركات على تحويل البيانات إلى قرارات استراتيجية.",
+        "metaDescription": "استشارات تحليل البيانات ودعم اتخاذ القرار."
       }
     }
   },
   "about": {
-    "tile1Title": "مجموعة تونسية مبنية على التنويع والاستقرار والنمو المستدام.",
-    "tile1Description": "تأسست عام 1979 على يد جميل آرم",
-    "tile2Title": "مقرّها تونس مع حضور قوي عبر عدة قطاعات.",
-    "tile2Description": "تعمل مجموعة آرم بعقلية طويلة الأمد وموجهة للقيمة",
-    "tile3Title": "التجارة والتوزيع",
-    "tile3Description": "شبكات قوية وعمليات تجارية موثوقة",
-    "tile4Title": "تنمية متعددة القطاعات",
-    "tile4Description": "مجالات الخبرة الأساسية",
-    "tileVisionTitle": "رؤيتنا",
-    "tileVisionDescription": "خلق قيمة مستدامة في تونس عبر نمو منضبط وتنويع مدروس.",
-    "tileValuesTitle": "قيمنا",
-    "tileValuesDescription": "الابتكار | الموثوقية | النمو | التميز",
-    "tileGovernanceTitle": "الاستقرار والحوكمة",
-    "tileGovernanceDescription": "عمليات واضحة، قيادة مسؤولة، مرونة على المدى الطويل",
-    "tileDiversificationTitle": "استراتيجية التنويع",
-    "tileDiversificationDescription": "محفظة مصممة للنمو عبر عدة قطاعات",
-    "tileSinceTitle": "منذ 1979",
-    "tileSinceDescription": "إرث من التنفيذ والموثوقية والنمو المستمر",
-    "tilePartnershipTitle": "نهج الشراكة",
-    "tilePartnershipDescription": "بناء الثقة مع العملاء والموردين وأصحاب المصلحة",
-    "tileImpactTitle": "النمو والأثر",
-    "tileImpactDescription": "خلق فرص والمساهمة في التنمية الاقتصادية",
-    "tileContactTitle": "تواصل معنا",
-    "tileContactDescription": "الهاتف: (+216) 71 80 88 35"
+    "tile1Title": "محللة بيانات شغوفة بتحويل البيانات إلى رؤى قابلة للتنفيذ.",
+    "tile1Description": "مقيمة في تونس ومتخصصة في تحليل البيانات وذكاء الأعمال",
+    "tile2Title": "خبرة في التحليل والتصور والنمذجة البيانية.",
+    "tile2Description": "منهجية تعتمد على فهم الأعمال وتحقيق الأداء",
+    "tile3Title": "تصور البيانات",
+    "tile3Description": "إنشاء لوحات معلومات واضحة وتفاعلية",
+    "tile4Title": "تحليل البيانات",
+    "tile4Description": "فهم وتحليل مجموعات البيانات المعقدة",
+    "tileVisionTitle": "رؤيتي",
+    "tileVisionDescription": "جعل البيانات أداة مفيدة ومتاحة لكل مؤسسة.",
+    "tileValuesTitle": "قيَمي",
+    "tileValuesDescription": "الدقة | الوضوح | التأثير | الفضول",
+    "tileGovernanceTitle": "المنهجية",
+    "tileGovernanceDescription": "نهج منظم قائم على البيانات والنتائج القابلة للقياس",
+    "tileDiversificationTitle": "الخبرات",
+    "tileDiversificationDescription": "Python، SQL، Power BI، Tableau، Excel",
+    "tileSinceTitle": "البداية",
+    "tileSinceDescription": "شغف مستمر بعالم تحليل البيانات",
+    "tilePartnershipTitle": "التعاون",
+    "tilePartnershipDescription": "العمل عن قرب مع أصحاب القرار",
+    "tileImpactTitle": "الأثر",
+    "tileImpactDescription": "تحويل البيانات إلى قرارات عملية",
+    "tileContactTitle": "تواصل",
+    "tileContactDescription": "manar@dataanalysis.com"
   },
   "activities": {
-    "title": "أنشطتنا",
-    "cta": "اعرف المزيد",
+    "title": "مشاريعي",
+    "cta": "عرض المشروع",
     "items": {
-      "commerceTitle": "التجارة والتوزيع",
-      "commerceDescription": "تعتمد أنشطتنا التجارية والتوزيعية على موثوقية التشغيل وشبكات قوية والتزام طويل الأمد بالأداء.",
-      "servicesTitle": "الخدمات",
-      "servicesDescription": "نقدم خدمات تركز على العميل مدعومة بخدمة ما بعد البيع السريعة والتميز التشغيلي.",
-      "hospitalityTitle": "الضيافة والسياحة",
-      "hospitalityDescription": "تعكس مجموعة آرم شغفها بالضيافة والسياحة عبر مشاريع فندقية راقية وتجارب متميزة.",
-      "realEstateTitle": "التطوير العقاري",
-      "realEstateDescription": "ندعم التطوير العقاري عبر البحث الاستراتيجي والتنفيذ المنضبط وخلق قيمة طويلة الأجل."
+      "sales_dashboard_title": "لوحة تحليل أداء المبيعات",
+      "sales_dashboard_description": "لوحة بيانات تفاعلية لتحليل مؤشرات أداء المبيعات واتجاهات الإيرادات باستخدام Power BI وSQL وExcel.",
+
+      "customer_segmentation_title": "تحليل وتقسيم العملاء",
+      "customer_segmentation_description": "تحليل سلوك العملاء وتقسيمهم إلى فئات باستخدام Python وPandas وNumPy وتقنيات التحليل الإحصائي.",
+
+      "financial_analysis_title": "تحليل البيانات المالية",
+      "financial_analysis_description": "تقييم الأداء المالي وتحليل الربحية وإنشاء تقارير تحليلية باستخدام Excel وTableau وقواعد بيانات SQL.",
+
+      "marketing_analytics_title": "تحليل التسويق وأداء الحملات",
+      "marketing_analytics_description": "تحليل نتائج الحملات التسويقية وإنشاء تصورات بيانية للبيانات باستخدام Python وMatplotlib وSeaborn وJupyter Notebook.",
+
+      "hr_analytics_title": "تحليل الموارد البشرية ولوحات المتابعة",
+      "hr_analytics_description": "تحليل بيانات الموظفين بما يشمل معدل الاحتفاظ بالأفراد وتتبع الأداء واستخراج مؤشرات الموارد البشرية باستخدام PostgreSQL وPower BI.",
+
+      "predictive_modeling_title": "النمذجة التنبؤية والتوقعات",
+      "predictive_modeling_description": "بناء نماذج تعلم آلي وتوقعات إحصائية باستخدام Python وR وSPSS وSAS وApache Spark.",
+
+      "data_engineering_title": "هندسة البيانات وبناء خطوط المعالجة",
+      "data_engineering_description": "تصميم خطوط معالجة بيانات آلية وبنية مستودعات البيانات باستخدام Apache Airflow وdbt وDocker وAWS.",
+
+      "database_management_title": "إدارة قواعد البيانات وهندسة البيانات",
+      "database_management_description": "تصميم وتحسين وإدارة قواعد البيانات مع MySQL وMongoDB وPostgreSQL وإدارة الإصدارات باستخدام Git وGitHub."
     }
   },
   "testimonials": {
-    "title": "ماذا يقول شركاؤنا",
+    "title": "آراء العملاء",
     "items": {
-      "t1Quote": "مجموعة آرم شريك موثوق: تنفيذ منظم، تسليم ثابت، والتزام قوي بالجودة.",
-      "t1Name": "عميل مؤسسي",
-      "t1Role": "التجارة والتوزيع",
-      "t2Quote": "فرق محترفة وحوكمة واضحة. العمل مع مجموعة آرم فعّال وشفاف وموجه للنتائج.",
-      "t2Name": "شريك أعمال",
-      "t2Role": "الخدمات",
-      "t3Quote": "سجل قوي ورؤية طويلة الأمد. مجموعة آرم تجلب الاستقرار والنمو عبر عدة قطاعات.",
-      "t3Name": "مستثمر",
-      "t3Role": "الضيافة والعقار"
+      "t1Quote": "تتمتع منار بقدرة متميزة على تحويل البيانات المعقدة إلى رؤى واضحة وقابلة للتنفيذ، مما ساهم بشكل كبير في تحسين عملية اتخاذ القرار لدينا.",
+      "t1Name": "سارة جونسون",
+      "t1Role": "محللة أعمال",
+
+      "t2Quote": "دقتها العالية ومنهجيتها التحليلية الممتازة جعلت التقارير ولوحات البيانات التي تقدمها دقيقة وسهلة الفهم.",
+      "t2Name": "ديفيد تشين",
+      "t2Role": "مدير بيانات",
+
+      "t3Quote": "العمل مع منار ساعدنا بشكل كبير في تحسين متابعة الأداء، حيث وفرت لنا لوحات تحكم واضحة لمؤشرات الأداء الرئيسية.",
+      "t3Name": "أمين بن صالح",
+      "t3Role": "الرئيس التنفيذي لشركة ناشئة",
+
+      "t4Quote": "ساعدنا عمل منار التحليلي في اكتشاف فرص نمو مهمة لم نكن نلاحظها من خلال بياناتنا سابقًا.",
+      "t4Name": "مايكل براون",
+      "t4Role": "مدير منتج",
+
+      "t5Quote": "قدرتها على تنظيم البيانات المعقدة وتقديم لوحات تحكم واضحة أحدثت فرقًا كبيرًا في عملية إعداد التقارير لدينا.",
+      "t5Name": "إيما ويلسون",
+      "t5Role": "مديرة العمليات",
+
+      "t6Quote": "دقتها العالية ومنهجيتها التحليلية الممتازة جعلت التقارير ولوحات البيانات التي تقدمها دقيقة وسهلة الفهم.",
+      "t6Name": "ديفيد تشين",
+      "t6Role": "مدير بيانات"
     }
   },
   "expertise": {
-    "title": "خبراتنا",
+    "title": "مهاراتي",
     "categories": {
-      "commerce": "التجارة والتوزيع",
-      "services": "الخدمات",
-      "hospitality": "الضيافة والسياحة",
-      "realEstate": "التطوير العقاري",
-      "industry": "الصناعة والعمليات"
+      "analytics": "تحليل البيانات",
+      "bi": "ذكاء الأعمال والتقارير",
+      "visualization": "تصور البيانات",
+      "statistics": "التحليل الإحصائي",
+      "engineering": "هندسة البيانات والأدوات"
     },
     "stats": {
-      "yearsExperience": "سنوات من الخبرة",
-      "clientsCount": "عملاء راضون",
-      "projectsCount": "مشاريع ناجحة"
+      "yearsExperience": "سنوات الخبرة",
+      "clientsCount": "مشاريع محللة",
+      "projectsCount": "لوحات معلومات منشأة"
     },
     "items": {
-      "industry": {
-        "reliability": "Your reliability text here",
-        "innovation": "Your innovation text here",
-        "qualitySafety": "Your quality safety text here",
-        "industrialOperations": "Your industrial Operations text here"
+      "analytics": {
+        "dataCleaning": "تنظيف وإعداد البيانات",
+        "eda": "التحليل الاستكشافي للبيانات",
+        "dataMining": "تنقيب البيانات",
+        "insights": "تحليلات ورؤى الأعمال"
       },
-      "realEstate": {
-        "execution": "Your execution text here",
-        "projectSourcing": "Your projectSourcing text here",
-        "assetValue": "Your assetValue text here",
-        "propertyDevelopment": "Your propertyDevelopment text here"
+      "bi": {
+        "powerbi": "لوحات Power BI",
+        "tableau": "تقارير Tableau",
+        "excel": "تحليل Excel",
+        "reporting": "التقارير الآلية"
       },
-      "hospitality": {
-        "operations": "Your operations text here",
-        "tourismDevelopment": "Your tourismDevelopment text here",
-        "guestExperience": "Your guestExperience text here",
-        "luxuryHotels": "Your luxuryHotels text here"
+      "visualization": {
+        "matplotlib": "تصور البيانات",
+        "seaborn": "تصور إحصائي",
+        "pieChart": "إنشاء الرسوم البيانية",
+        "storytelling": "سرد البيانات"
       },
-      "services": {
-        "operationalExcellence": "Your operations text here",
-        "maintenance": "Your tourismDevelopment text here",
-        "customerService": "Your guestExperience text here",
-        "afterSales": "Your afterSales text here"
+      "statistics": {
+        "statistics": "التحليل الإحصائي",
+        "r": "لغة R",
+        "spss": "IBM SPSS",
+        "modeling": "النمذجة التنبؤية"
       },
-      "commerce": {
-        "procurement": "Your operations text here",
-        "logistics": "Your tourismDevelopment text here",
-        "retail": "Your guestExperience text here",
-        "distribution": "Your afterSales text here"
+      "engineering": {
+        "python": "بايثون",
+        "sql": "SQL",
+        "pandas": "Pandas",
+        "numpy": "NumPy",
+        "airflow": "Apache Airflow",
+        "spark": "Apache Spark",
+        "dbt": "dbt",
+        "aws": "AWS",
+        "docker": "Docker",
+        "git": "Git",
+        "github": "GitHub",
+        "jupyter": "Jupyter Notebook"
       }
     }
   },
   "milestones": {
-    "title": "محطاتنا",
-    "ctaPrefix": "لمزيد من المعلومات حول مجموعة آرم،",
-    "ctaLink": "قم بزيارة موقعنا الرسمي",
+    "title": "مسيرتي",
+    "ctaPrefix": "لمزيد من المعلومات حول ملفي الشخصي،",
+    "ctaLink": "تواصل معي مباشرة",
     "items": {
-      "m1Title": "1979 — التأسيس",
-      "m1Desc": "تأسست عام 1979 على يد جميل آرم، لتبدأ رحلة المجموعة في التجارة والتوزيع.",
-      "m1Tags": "تأسست عام 1979 | التجارة والتوزيع | STEQ",
-      "m2Title": "التنويع — الصناعة",
-      "m2Desc": "التوسع نحو الأنشطة الصناعية عبر تنويع مستمر وتطوير العمليات.",
-      "m2Tags": "الصناعة | التنويع | العمليات",
-      "m3Title": "النمو — الخدمات",
-      "m3Desc": "الاستثمار في الخدمات مع تركيز قوي على رضا العملاء وخدمة ما بعد البيع عالية الأداء.",
-      "m3Tags": "الخدمات | تركيز على العميل | ما بعد البيع",
-      "m4Title": "الشغف — الضيافة والسياحة",
-      "m4Desc": "تطوير مشاريع ضيافة راقية تعكس التزام مجموعة آرم بتجارب عالية الجودة.",
-      "m4Tags": "فنادق | سياحة | تجربة مميزة",
-      "m5Title": "التوسع — التطوير العقاري",
-      "m5Desc": "الدخول إلى التطوير العقاري عبر بحث الفرص والتنفيذ المنضبط.",
-      "m5Tags": "العقار | التطوير | خلق قيمة",
-      "m6Title": "اليوم — مجموعة متعددة القطاعات",
-      "m6Desc": "تمركز قوي مع تركيز ثابت على الاستقرار والحوكمة والنمو المستدام في تونس.",
-      "m6Tags": "التنويع | الاستقرار | النمو"
+      "data1Title": "البداية في تحليل البيانات",
+      "data1Desc": "أول المشاريع في تحليل البيانات وتصويرها.",
+      "data1Tags": "Excel | SQL | Python",
+
+      "data2Title": "تطوير ذكاء الأعمال",
+      "data2Desc": "إنشاء لوحات تحكم وتقارير آلية.",
+      "data2Tags": "Power BI | Tableau | Reporting",
+
+      "data3Title": "تحليل متقدم",
+      "data3Desc": "النمذجة الإحصائية والتحليل التنبؤي.",
+      "data3Tags": "Python | Machine Learning | Statistics",
+
+      "data4Title": "مشاريع مهنية",
+      "data4Desc": "تحليل البيانات لشركات وحالات عمل حقيقية.",
+      "data4Tags": "BI | Data Analysis | Business",
+
+      "data5Title": "تحسين البيانات",
+      "data5Desc": "تحسين مسارات البيانات وجودتها.",
+      "data5Tags": "ETL | SQL | Data Engineering",
+
+      "data6Title": "اليوم",
+      "data6Desc": "محللة بيانات تركز على استخراج الرؤى ودعم اتخاذ القرار.",
+      "data6Tags": "Analytics | BI | Strategy"
     }
   },
   "approach": {
-    "title": "نهجنا",
+    "title": "منهجيتي",
     "step1": "الخطوة 1",
     "step2": "الخطوة 2",
     "step3": "الخطوة 3",
-    "card1Title": "التخطيط الاستراتيجي",
-    "card1Desc": "نحدد الأهداف وأصحاب المصلحة والأولويات لتحقيق نتائج واضحة وقابلة للقياس. ننظم خارطة الطريق ونحدد المحطات ونضمن تنفيذًا منضبطًا.",
-    "card2Title": "التنفيذ والعمليات",
-    "card2Desc": "ننفذ بانضباط وشفافية مع تنسيق الفرق والموارد لتقديم نتائج موثوقة بجودة واتساق.",
-    "card3Title": "الأداء والنمو",
-    "card3Desc": "نركز على الأداء طويل الأمد: التحسين المستمر، التميز التشغيلي، والنمو المستدام."
+    "card1Title": "فهم الاحتياج",
+    "card1Desc": "تحليل المشكلة التجارية وتحديد الأهداف.",
+    "card2Title": "تحليل البيانات",
+    "card2Desc": "تنظيف البيانات واستكشافها وتحويلها.",
+    "card3Title": "الرؤى والتوصيات",
+    "card3Desc": "تقديم تصورات واضحة وتوصيات عملية."
   },
   "footer": {
-    "title": "هل أنت مستعد لبناء قصة نموك القادمة مع مجموعة آرم؟",
-    "subtitle": "تواصل مع فريقنا واكتشف كيف ندعم التنمية متعددة القطاعات في تونس.",
-    "address": "5 Rue 8603, Charguia, 2035 Ariana, Tunisia",
-    "phone": "(+216) 71 80 88 35",
-    "website": "http://www.aremgroup.com",
-    "cta": "تواصل معنا",
+    "title": "لنحوّل بياناتك إلى قرارات ناجحة",
+    "subtitle": "تواصل معي لبدء رحلتك مع تحليل البيانات.",
+    "address": "تونس",
+    "phone": "+21600000000",
+    "website": "manarzmerli.com",
+    "cta": "تواصل معي",
     "copyright": "جميع الحقوق محفوظة."
   },
   "whatsapp": {
-    "tooltip": "تحدث معنا على واتساب"
+    "tooltip": "تحدث معي على واتساب"
   }
 }

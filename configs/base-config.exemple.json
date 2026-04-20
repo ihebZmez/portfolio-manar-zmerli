@@ -9,11 +9,7 @@
   },
   "i18n": {
     "defaultLanguage": "fr",
-    "supportedLanguages": [
-      "fr",
-      "ar",
-      "en"
-    ],
+    "supportedLanguages": ["fr", "ar", "en"],
     "direction": "ltr"
   },
   "theme": {
@@ -51,9 +47,9 @@
     "showWhatsapp": true
   },
   "about": {
-    "yearsExperience": 10,
-    "clientsCount": 120,
-    "projectsCount": 300
+    "yearsExperience": 6,
+    "clientsCount": 8,
+    "projectsCount": 13
   },
   "legal": {
     "companyName": "Distribution Company SARL",

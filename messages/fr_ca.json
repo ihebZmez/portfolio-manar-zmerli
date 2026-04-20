@@ -97,17 +97,32 @@
     "tileContactDescription": "Tél : (+216) 71 80 88 35"
   },
   "activities": {
-    "title": "Nos Activités",
-    "cta": "En savoir plus",
+    "title": "Mes Projets",
+    "cta": "Voir le projet",
     "items": {
-      "commerceTitle": "Commerce & Distribution",
-      "commerceDescription": "Nos activités commerciales et de distribution reposent sur la fiabilité opérationnelle, des réseaux solides et un engagement durable en performance.",
-      "servicesTitle": "Services",
-      "servicesDescription": "Nous assurons des services orientés client, soutenus par un SAV réactif et une excellence opérationnelle.",
-      "hospitalityTitle": "Hôtellerie & Tourisme",
-      "hospitalityDescription": "AREM GROUP exprime sa passion pour l’hôtellerie et le tourisme à travers des projets haut de gamme et des expériences premium.",
-      "realEstateTitle": "Promotion Immobilière",
-      "realEstateDescription": "Nous accompagnons la promotion immobilière via la recherche d’opportunités, une exécution rigoureuse et une création de valeur long terme."
+      "sales_dashboard_title": "Tableau de Bord des Performances Commerciales",
+      "sales_dashboard_description": "Tableau de bord interactif analysant les KPI de vente, les tendances de revenus et les indicateurs de performance avec Power BI, SQL et Excel.",
+
+      "customer_segmentation_title": "Analyse de Segmentation Clients",
+      "customer_segmentation_description": "Segmentation et clustering du comportement client utilisant Python, Pandas, NumPy et des techniques statistiques avancées.",
+
+      "financial_analysis_title": "Analyse des Données Financières",
+      "financial_analysis_description": "Évaluation de la performance financière, analyse de rentabilité et reporting analytique réalisés avec Excel, Tableau et bases de données SQL.",
+
+      "marketing_analytics_title": "Analyse Marketing & Performance des Campagnes",
+      "marketing_analytics_description": "Analyse des campagnes marketing et visualisation des données grâce à Python, Matplotlib, Seaborn et Jupyter Notebook.",
+
+      "hr_analytics_title": "Tableau de Bord RH & Analyse des Talents",
+      "hr_analytics_description": "Analyse des données RH incluant la rétention des employés, le suivi de performance et les indicateurs workforce via PostgreSQL et Power BI.",
+
+      "predictive_modeling_title": "Modélisation Prédictive & Prévisions",
+      "predictive_modeling_description": "Développement de modèles prédictifs et prévisions statistiques utilisant Python, R, SPSS, SAS et Apache Spark.",
+
+      "data_engineering_title": "Pipeline Data Engineering",
+      "data_engineering_description": "Conception de pipelines ETL automatisés et architecture Data Warehouse avec Apache Airflow, dbt, Docker et AWS.",
+
+      "database_management_title": "Gestion des Bases de Données & Architecture Data",
+      "database_management_description": "Conception, optimisation et gestion des bases de données avec MySQL, MongoDB, PostgreSQL ainsi que le versioning via Git et GitHub."
     }
   },
   "testimonials": {
@@ -167,28 +182,33 @@
     }
   },
   "milestones": {
-    "title": "Nos Jalons",
-    "ctaPrefix": "Pour plus d’informations sur AREM GROUP,",
-    "ctaLink": "visitez notre site officiel",
+    "title": "Mon Parcours",
+    "ctaPrefix": "Pour plus d’informations sur mon profil,",
+    "ctaLink": "contactez-moi directement",
     "items": {
-      "m1Title": "1979 — Fondation",
-      "m1Desc": "Fondé en 1979 par Jamel AREM, marquant le début de l’aventure du groupe en commerce et distribution.",
-      "m1Tags": "Fondé en 1979 | Commerce & Distribution | STEQ",
-      "m2Title": "Diversification — Industrie",
-      "m2Desc": "Expansion vers l’industrie grâce à une diversification continue et au développement des opérations.",
-      "m2Tags": "Industrie | Diversification | Opérations",
-      "m3Title": "Croissance — Services",
-      "m3Desc": "Investissement dans les services avec un fort focus satisfaction client et SAV performant.",
-      "m3Tags": "Services | Orientation client | SAV",
-      "m4Title": "Passion — Hôtellerie & Tourisme",
-      "m4Desc": "Développement de projets hôteliers premium, reflétant l’engagement d’AREM GROUP pour des expériences haut de gamme.",
-      "m4Tags": "Hôtels | Tourisme | Expérience premium",
-      "m5Title": "Expansion — Promotion Immobilière",
-      "m5Desc": "Entrée dans la promotion immobilière via la recherche d’opportunités et une exécution rigoureuse.",
-      "m5Tags": "Immobilier | Développement | Création de valeur",
-      "m6Title": "Aujourd’hui — Groupe multi-sectoriel",
-      "m6Desc": "Un positionnement fort avec un focus constant sur stabilité, gouvernance et croissance durable en Tunisie.",
-      "m6Tags": "Diversification | Stabilité | Croissance"
+      "data1Title": "Début en Data Analytics",
+      "data1Desc": "Premiers projets en analyse et visualisation de données.",
+      "data1Tags": "Excel | SQL | Python",
+
+      "data2Title": "Développement BI",
+      "data2Desc": "Création de dashboards et automatisation du reporting.",
+      "data2Tags": "Power BI | Tableau | Reporting",
+
+      "data3Title": "Analyse avancée",
+      "data3Desc": "Modélisation statistique et analyse prédictive.",
+      "data3Tags": "Python | Machine Learning | Statistiques",
+
+      "data4Title": "Projets professionnels",
+      "data4Desc": "Analyse de données pour des entreprises et cas réels.",
+      "data4Tags": "BI | Data Analysis | Business",
+
+      "data5Title": "Optimisation des données",
+      "data5Desc": "Amélioration des pipelines de données et de leur qualité.",
+      "data5Tags": "ETL | SQL | Data Engineering",
+
+      "data6Title": "Aujourd’hui",
+      "data6Desc": "Data Analyst orientée insights et prise de décision.",
+      "data6Tags": "Analytics | BI | Stratégie"
     }
   },
   "approach": {

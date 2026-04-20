@@ -1,17 +1,17 @@
 {
   "meta": {
-    "title": "AREM GROUP – Leader in Multi-Sector Development in Tunisia",
-    "description": "AREM GROUP is a Tunisian multidisciplinary group founded in 1979, delivering excellence in commerce & distribution, services, hospitality & tourism, and real estate development.",
-    "keywords": "AREM GROUP, Tunisia, commerce and distribution, services, hospitality, tourism, real estate development, multidisciplinary group",
-    "whatsappPhone": "+21671808835",
-    "whatsapp": "Hello! I’m interested in AREM GROUP services. Can we discuss?"
+    "title": "Manar Zmerli – Data Analyst Portfolio",
+    "description": "Manar Zmerli is a data analyst based in Tunisia, specialized in data analysis, visualization, and business intelligence.",
+    "keywords": "data analyst, Tunisia, Power BI, Python, SQL, data visualization, business intelligence, Manar Zmerli",
+    "whatsappPhone": "+21600000000",
+    "whatsapp": "Hello! I would like to discuss my data analysis needs with you."
   },
   "nav": {
     "home": "Home",
     "about": "About",
     "services": "Services",
-    "activities": "Activities",
-    "expertise": "Expertise",
+    "activities": "Projects",
+    "expertise": "Skills",
     "testimonials": "Testimonials",
     "contact": "Contact"
   },
@@ -22,202 +22,244 @@
     "ar": "العربية"
   },
   "hero": {
-    "eyebrow": "Tunisian multi-sector group since 1979",
-    "title": "AREM GROUP – Leader in Multi-Sector Development in Tunisia",
-    "subtitle": "Since 1979, delivering excellence in distribution, services, tourism, and real estate",
-    "description": "A corporate group with a strong track record built on diversification, stability, and sustainable growth.",
-    "ctaContact": "Contact Us",
-    "ctaServices": "Our Services"
+    "eyebrow": "Data Analyst based in Tunisia",
+    "title": "Manar Zmerli – Turning Data into Decisions",
+    "subtitle": "Data Analysis | BI | Python | SQL | Power BI",
+    "description": "I help companies understand their data and make better decisions through clear and actionable analysis.",
+    "ctaContact": "Contact Me",
+    "ctaServices": "View Projects"
   },
   "services": {
-    "sectionTitle": "Our Services",
-    "sectionDescription": "A diversified group delivering value across commerce & distribution, services, hospitality & tourism, and real estate development.",
+    "sectionTitle": "My Services",
+    "sectionDescription": "Complete data analysis solutions to transform your data into actionable insights.",
     "items": {
-      "commerce": {
-        "title": "Commerce & Distribution",
-        "description": "We provide end-to-end commerce and distribution solutions including B2B wholesale, retail supply chain management, logistics coordination, and last-mile delivery optimization for businesses of all sizes.",
-        "metaDescription": "Professional commerce and distribution solutions for B2B wholesalers, retailers, and supply chain operators."
+      "DataCleaning": {
+        "title": "Data Cleaning",
+        "description": "Cleaning, structuring, and preparing datasets to ensure quality and usability.",
+        "metaDescription": "Data cleaning and preparation services for reliable analytics."
       },
-      "services": {
-        "title": "Services",
-        "description": "Our comprehensive service portfolio includes business consulting, digital transformation, customer support, financial advisory, and operational outsourcing tailored to your industry needs.",
-        "metaDescription": "Comprehensive business services tailored to your industry, including consulting, support, and operational excellence."
+      "ExploratoryDataAnalysis": {
+        "title": "Exploratory Data Analysis",
+        "description": "Exploring datasets to identify trends, patterns, and anomalies.",
+        "metaDescription": "In-depth exploratory analysis to better understand your data."
       },
-      "hospitality": {
-        "title": "Hospitality & Tourism",
-        "description": "We offer complete hospitality and tourism management solutions including hotel operations, travel booking systems, guest experience optimization, destination marketing, and tour operator support.",
-        "metaDescription": "Complete hospitality and tourism solutions for hotels, travel agencies, and destination management companies."
+      "DataVisualization": {
+        "title": "Data Visualization",
+        "description": "Creation of interactive dashboards and visual reports using Power BI and Tableau.",
+        "metaDescription": "Interactive dashboards and data visualization services."
       },
-      "realEstate": {
-        "title": "Real Estate Development",
-        "description": "Our real estate development services cover land acquisition, project financing, construction management, property marketing, and residential or commercial asset delivery from concept to completion.",
-        "metaDescription": "Expert real estate development services from land acquisition to project completion, residential and commercial."
+      "StatisticalModeling": {
+        "title": "Statistical Modeling",
+        "description": "Building statistical models to analyze and predict business behavior.",
+        "metaDescription": "Statistical and predictive data modeling solutions."
       },
-      "industry": {
-        "title": "Industry & Operations",
-        "description": "We provide industrial and operational solutions including production line optimization, maintenance planning, quality control, facility management, and lean manufacturing implementation.",
-        "metaDescription": "Industrial and operational solutions to optimize production, maintenance, and facility management."
+      "BusinessIntelligence": {
+        "title": "Business Intelligence",
+        "description": "Designing BI solutions to monitor performance and support decision-making.",
+        "metaDescription": "Business Intelligence solutions for performance monitoring."
       },
-      "HotelAndTourisme": {
-        "title": "Hôtellerie et Tourisme",
-        "description": "Nous proposons des solutions complètes de gestion hôtelière et touristique, incluant l'exploitation d'hôtels, les systèmes de réservation, l'optimisation de l'expérience client et le marketing de destination.",
-        "metaDescription": "Solutions complètes pour l'hôtellerie et le tourisme, adaptées aux hôtels, agences de voyage et gestion de destinations."
+      "AutomatedReporting": {
+        "title": "Automated Reporting",
+        "description": "Automation of reports to provide fast and efficient KPI monitoring.",
+        "metaDescription": "Automated reporting and KPI tracking dashboards."
       },
-      "PromotionImmobiliere": {
-        "title": "Promotion Immobiliere",
-        "description": "Nos services de promotion immobilière couvrent l'acquisition foncière, le montage financier, la gestion de chantier, la commercialisation et la livraison de projets résidentiels et commerciaux clé en main.",
-        "metaDescription": "Services experts en promotion immobilière, de l'acquisition foncière à la livraison des projets résidentiels et commerciaux."
+      "DataInsightsConsulting": {
+        "title": "Data Insights Consulting",
+        "description": "Supporting companies in transforming data into strategic decisions.",
+        "metaDescription": "Data consulting and decision-making support."
       }
     }
   },
   "about": {
-    "tile1Title": "A Tunisian corporate group built on diversification, stability, and sustainable growth.",
-    "tile1Description": "Founded in 1979 by Jamel AREM",
-    "tile2Title": "Headquartered in Tunisia with strong positioning across multiple sectors.",
-    "tile2Description": "AREM GROUP operates with a long-term, value-driven mindset",
-    "tile3Title": "Commerce & Distribution",
-    "tile3Description": "Strong networks and dependable commercial operations",
-    "tile4Title": "Multi-Sector Development",
-    "tile4Description": "Core areas of expertise",
-    "tileVisionTitle": "Our Vision",
-    "tileVisionDescription": "To create sustainable value in Tunisia through disciplined growth and diversification.",
-    "tileValuesTitle": "Our Values",
-    "tileValuesDescription": "Innovation | Reliability | Growth | Excellence",
-    "tileGovernanceTitle": "Stability & Governance",
-    "tileGovernanceDescription": "Clear processes, responsible leadership, long-term resilience",
-    "tileDiversificationTitle": "Diversification Strategy",
-    "tileDiversificationDescription": "A portfolio designed to grow across multiple sectors",
-    "tileSinceTitle": "Since 1979",
-    "tileSinceDescription": "A legacy of execution, reliability, and continuous growth",
-    "tilePartnershipTitle": "Partnership Mindset",
-    "tilePartnershipDescription": "Building trust with clients, suppliers, and stakeholders",
-    "tileImpactTitle": "Growth & Impact",
-    "tileImpactDescription": "Creating opportunities and contributing to economic development",
-    "tileContactTitle": "Contact Us",
-    "tileContactDescription": "Phone: (+216) 71 80 88 35"
+    "tile1Title": "Data Analyst passionate about transforming data into actionable insights.",
+    "tile1Description": "Based in Tunisia, specialized in BI and data analytics",
+    "tile2Title": "Experience in data analysis, visualization, and modeling.",
+    "tile2Description": "Business-oriented and performance-driven approach",
+    "tile3Title": "Data Visualization",
+    "tile3Description": "Building clear and interactive dashboards",
+    "tile4Title": "Data Analysis",
+    "tile4Description": "Exploring and understanding complex datasets",
+    "tileVisionTitle": "My Vision",
+    "tileVisionDescription": "Making data accessible and useful for every organization.",
+    "tileValuesTitle": "My Values",
+    "tileValuesDescription": "Accuracy | Clarity | Impact | Curiosity",
+    "tileGovernanceTitle": "Methodology",
+    "tileGovernanceDescription": "Structured approach focused on data and measurable results",
+    "tileDiversificationTitle": "Expertise",
+    "tileDiversificationDescription": "Python, SQL, Power BI, Tableau, Excel",
+    "tileSinceTitle": "Since the Beginning",
+    "tileSinceDescription": "A continuous passion for analytics and data exploration",
+    "tilePartnershipTitle": "Collaboration",
+    "tilePartnershipDescription": "Working closely with business stakeholders",
+    "tileImpactTitle": "Impact",
+    "tileImpactDescription": "Transforming data into concrete decisions",
+    "tileContactTitle": "Contact",
+    "tileContactDescription": "manar@dataanalysis.com"
   },
   "activities": {
-    "title": "Our Activities",
-    "cta": "Learn more",
+    "title": "My Projects",
+    "cta": "View Project",
     "items": {
-      "commerceTitle": "Commerce & Distribution",
-      "commerceDescription": "Our commercial and distribution activities are built on operational reliability, strong networks, and a long-term commitment to performance.",
-      "servicesTitle": "Services",
-      "servicesDescription": "We deliver services with a customer-first mindset, supported by strong after-sales capabilities and operational excellence.",
-      "hospitalityTitle": "Hospitality & Tourism",
-      "hospitalityDescription": "AREM GROUP expresses its passion for hospitality and tourism through high-end hotel development and premium guest experiences.",
-      "realEstateTitle": "Real Estate Development",
-      "realEstateDescription": "We support real estate development through strategic sourcing, disciplined execution, and long-term value creation."
+      "sales_dashboard_title": "Sales Performance Dashboard",
+      "sales_dashboard_description": "Interactive business dashboard analyzing sales KPIs, revenue trends, and performance indicators using Power BI, SQL, and Excel.",
+
+      "customer_segmentation_title": "Customer Segmentation Analysis",
+      "customer_segmentation_description": "Customer behavior clustering and segmentation using Python, Pandas, NumPy, and statistical analysis techniques.",
+
+      "financial_analysis_title": "Financial Data Analysis",
+      "financial_analysis_description": "Financial performance evaluation, profitability analysis, and reporting dashboards built with Excel, Tableau, and SQL databases.",
+
+      "marketing_analytics_title": "Marketing Analytics & Campaign Insights",
+      "marketing_analytics_description": "Marketing campaign performance analysis and visualization using Python, Matplotlib, Seaborn, and Jupyter Notebook.",
+
+      "hr_analytics_title": "HR Analytics Dashboard",
+      "hr_analytics_description": "Employee data analysis including retention, performance tracking, and workforce insights powered by PostgreSQL and Power BI.",
+
+      "predictive_modeling_title": "Predictive Modeling & Forecasting",
+      "predictive_modeling_description": "Machine learning models and statistical forecasting using Python, R, SPSS, SAS, and Apache Spark.",
+
+      "data_engineering_title": "Data Engineering Pipeline",
+      "data_engineering_description": "Design of automated ETL pipelines and data warehouse architecture using Apache Airflow, dbt, Docker, and AWS.",
+
+      "database_management_title": "Database Management & Data Architecture",
+      "database_management_description": "Database design, optimization, and version-controlled data workflows using MySQL, MongoDB, PostgreSQL, Git, and GitHub."
     }
   },
   "testimonials": {
-    "title": "What our partners say",
+    "title": "What Clients Say",
     "items": {
-      "t1Quote": "AREM GROUP is a reliable partner: structured execution, consistent delivery, and a strong commitment to quality.",
-      "t1Name": "Corporate Client",
-      "t1Role": "Commerce & Distribution",
-      "t2Quote": "Professional teams and clear governance. Working with AREM GROUP is efficient, transparent, and results-oriented.",
-      "t2Name": "Business Partner",
-      "t2Role": "Services",
-      "t3Quote": "A strong track record and a long-term vision. AREM GROUP brings stability and growth across multiple sectors.",
-      "t3Name": "Investor",
-      "t3Role": "Hospitality & Real Estate"
+      "t1Quote": "Manar has an exceptional ability to turn complex datasets into clear, actionable insights that directly impacted our decision-making process.",
+      "t1Name": "Sarah Johnson",
+      "t1Role": "Business Analyst",
+
+      "t2Quote": "Her attention to detail and analytical rigor are outstanding. The reports and dashboards she delivered were both accurate and easy to understand.",
+      "t2Name": "David Chen",
+      "t2Role": "Data Manager",
+
+      "t3Quote": "Working with Manar significantly improved our performance tracking. Her dashboards gave us full visibility over our KPIs and growth opportunities.",
+      "t3Name": "Amine Ben Salah",
+      "t3Role": "Startup CEO",
+
+      "t4Quote": "Manar's analytical work helped us identify key growth opportunities we were previously missing in our data.",
+      "t4Name": "Michael Brown",
+      "t4Role": "Product Manager",
+
+      "t5Quote": "Her ability to structure messy datasets and deliver clear dashboards made a real difference in our reporting process.",
+      "t5Name": "Emma Wilson",
+      "t5Role": "Operations Director",
+
+      "t6Quote": "Her attention to detail and analytical rigor are outstanding. The reports and dashboards she delivered were both accurate and easy to understand.",
+      "t6Name": "David Chen",
+      "t6Role": "Data Manager"
     }
   },
   "expertise": {
-    "title": "Our Expertise",
+    "title": "My Skills",
     "categories": {
-      "commerce": "Commerce & Distribution",
-      "services": "Services",
-      "hospitality": "Hospitality & Tourism",
-      "realEstate": "Real Estate Development",
-      "industry": "Industry & Operations"
+      "analytics": "Data Analysis",
+      "bi": "BI & Reporting",
+      "visualization": "Data Visualization",
+      "statistics": "Statistical Analysis",
+      "engineering": "Data Engineering & Tools"
     },
     "stats": {
       "yearsExperience": "Years of Experience",
-      "clientsCount": "Happy Clients",
-      "projectsCount": "Successful Projects"
+      "clientsCount": "Analyzed Projects",
+      "projectsCount": "Dashboards Created"
     },
     "items": {
-      "industry": {
-        "reliability": "Your reliability text here",
-        "innovation": "Your innovation text here",
-        "qualitySafety": "Your quality safety text here",
-        "industrialOperations": "Your industrial Operations text here"
+      "analytics": {
+        "dataCleaning": "Data Cleaning & Preparation",
+        "eda": "Exploratory Data Analysis",
+        "dataMining": "Data Mining",
+        "insights": "Business Insights"
       },
-      "realEstate": {
-        "execution": "Your execution text here",
-        "projectSourcing": "Your projectSourcing text here",
-        "assetValue": "Your assetValue text here",
-        "propertyDevelopment": "Your propertyDevelopment text here"
+      "bi": {
+        "powerbi": "Power BI Dashboards",
+        "tableau": "Tableau Reporting",
+        "excel": "Excel Analysis",
+        "reporting": "Automated Reporting"
       },
-      "hospitality": {
-        "operations": "Your operations text here",
-        "tourismDevelopment": "Your tourismDevelopment text here",
-        "guestExperience": "Your guestExperience text here",
-        "luxuryHotels": "Your luxuryHotels text here"
+      "visualization": {
+        "matplotlib": "Data Visualization",
+        "seaborn": "Statistical Visualization",
+        "pieChart": "Charting & Reporting",
+        "storytelling": "Data Storytelling"
       },
-      "services": {
-        "operationalExcellence": "Your operations text here",
-        "maintenance": "Your tourismDevelopment text here",
-        "customerService": "Your guestExperience text here",
-        "afterSales": "Your afterSales text here"
+      "statistics": {
+        "statistics": "Statistical Analysis",
+        "r": "R Programming",
+        "spss": "IBM SPSS",
+        "modeling": "Predictive Modeling"
       },
-      "commerce": {
-        "procurement": "Your operations text here",
-        "logistics": "Your tourismDevelopment text here",
-        "retail": "Your guestExperience text here",
-        "distribution": "Your afterSales text here"
+      "engineering": {
+        "python": "Python",
+        "sql": "SQL",
+        "pandas": "Pandas",
+        "numpy": "NumPy",
+        "airflow": "Apache Airflow",
+        "spark": "Apache Spark",
+        "dbt": "dbt",
+        "aws": "AWS",
+        "docker": "Docker",
+        "git": "Git",
+        "github": "GitHub",
+        "jupyter": "Jupyter Notebook"
       }
     }
   },
   "milestones": {
-    "title": "Our Milestones",
-    "ctaPrefix": "For more details about AREM GROUP,",
-    "ctaLink": "visit our official website",
+    "title": "My Journey",
+    "ctaPrefix": "For more information about my profile,",
+    "ctaLink": "contact me directly",
     "items": {
-      "m1Title": "1979 — Foundation",
-      "m1Desc": "Founded in 1979 by Jamel AREM, marking the beginning of AREM GROUP’s journey in commerce and distribution.",
-      "m1Tags": "Founded in 1979 | Commerce & Distribution | STEQ",
-      "m2Title": "Diversification — Industry",
-      "m2Desc": "Expansion into industrial activities through continuous diversification and operational development.",
-      "m2Tags": "Industry | Diversification | Operations",
-      "m3Title": "Growth — Services",
-      "m3Desc": "Investment in services with a strong focus on customer satisfaction and high-performing after-sales support.",
-      "m3Tags": "Services | Customer Focus | After-Sales",
-      "m4Title": "Passion — Hospitality & Tourism",
-      "m4Desc": "Development of premium hospitality projects, reflecting AREM GROUP’s commitment to high-end tourism and guest experience.",
-      "m4Tags": "Hotels | Tourism | Premium Experience",
-      "m5Title": "Expansion — Real Estate Development",
-      "m5Desc": "Entry into real estate development through strategic sourcing and disciplined project execution.",
-      "m5Tags": "Real Estate | Development | Value Creation",
-      "m6Title": "Today — Multi-Sector Group",
-      "m6Desc": "A strong positioning across sectors with a consistent focus on stability, governance, and sustainable growth in Tunisia.",
-      "m6Tags": "Diversification | Stability | Growth"
+      "data1Title": "Start in Data Analytics",
+      "data1Desc": "First projects in data analysis and visualization.",
+      "data1Tags": "Excel | SQL | Python",
+
+      "data2Title": "BI Development",
+      "data2Desc": "Creation of dashboards and automated reporting.",
+      "data2Tags": "Power BI | Tableau | Reporting",
+
+      "data3Title": "Advanced Analytics",
+      "data3Desc": "Statistical modeling and predictive analytics.",
+      "data3Tags": "Python | Machine Learning | Statistics",
+
+      "data4Title": "Professional Projects",
+      "data4Desc": "Data analytics for real companies and business cases.",
+      "data4Tags": "BI | Data Analysis | Business",
+
+      "data5Title": "Data Optimization",
+      "data5Desc": "Improving data pipelines and data quality.",
+      "data5Tags": "ETL | SQL | Data Engineering",
+
+      "data6Title": "Today",
+      "data6Desc": "Data Analyst focused on insights and decision-making.",
+      "data6Tags": "Analytics | BI | Strategy"
     }
   },
   "approach": {
-    "title": "Our Approach",
+    "title": "My Approach",
     "step1": "Step 1",
     "step2": "Step 2",
     "step3": "Step 3",
-    "card1Title": "Strategic Planning",
-    "card1Desc": "We align on objectives, stakeholders, and priorities to deliver clear, measurable outcomes across our sectors. We structure the roadmap, define key milestones, and ensure execution stays on track.",
-    "card2Title": "Execution & Operations",
-    "card2Desc": "We execute with discipline and transparency, coordinating teams and resources to deliver reliable results. From planning to rollout, every step is managed with quality and consistency.",
-    "card3Title": "Performance & Growth",
-    "card3Desc": "We focus on long-term performance: continuous improvement, operational excellence, and sustainable growth. Our commitment is to deliver value that lasts."
+    "card1Title": "Understanding the Need",
+    "card1Desc": "Business problem analysis and objective definition.",
+    "card2Title": "Data Analysis",
+    "card2Desc": "Cleaning, exploration, and transformation of datasets.",
+    "card3Title": "Insights & Recommendations",
+    "card3Desc": "Visualization and actionable recommendations."
   },
   "footer": {
-    "title": "Ready to build your next growth story with AREM GROUP?",
-    "subtitle": "Get in touch with our team and discover how we support multi-sector development in Tunisia.",
-    "address": "5 Rue 8603, Charguia, 2035 Ariana, Tunisia",
-    "phone": "(+216) 71 80 88 35",
-    "website": "http://www.aremgroup.com",
-    "cta": "Contact Us",
+    "title": "Let’s work together on your data",
+    "subtitle": "Contact me to transform your data into decisions.",
+    "address": "Tunisia",
+    "phone": "+21600000000",
+    "website": "manarzmerli.com",
+    "cta": "Contact Me",
     "copyright": "All rights reserved."
   },
   "whatsapp": {
-    "tooltip": "Chat with us on WhatsApp"
+    "tooltip": "Chat on WhatsApp"
   }
 }

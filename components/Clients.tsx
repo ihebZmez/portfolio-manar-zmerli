@@ -4,10 +4,7 @@ import React from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
-import {
-  companies,
-  testimonials,
-} from "@/data";
+import { companies, testimonials } from "@/data";
 import { InfiniteMovingCards } from "./ui/InfiniteCards";
 
 const Clients = () => {
@@ -21,9 +18,7 @@ const Clients = () => {
 
   return (
     <section id="testimonials" className="py-20">
-      <h1 className="heading">
-        {t("testimonials.title")}
-      </h1>
+      <h1 className="heading">{t("testimonials.title")}</h1>
 
       <div className="flex flex-col items-center gap-2 sm:gap-4 md:gap-8 lg:gap-16 mt-4 sm:mt-6 md:mt-8 lg:mt-10">
         <div className="min-h-[40vh] h-fit rounded-md flex flex-col antialiased items-center justify-center relative overflow-hidden">
@@ -41,17 +36,18 @@ const Clients = () => {
                 <Image
                   src={company.img}
                   alt={t(company.nameKey)}
-                  width={20}
-                  height={20}
-                  className="w-4 sm:w-6 md:w-8 lg:w-10"
+                  width={100}
+                  height={100}
+                  className="w-12 sm:w-14 md:w-16 lg:w-20"
                 />
+
                 {/* <Image
-                  src={company.nameImg}
-                  alt={company.name}
-                  width={company.id === 4 || company.id === 5 ? 100 : 150}
-                  height={50}
-                  className="w-16 sm:w-20 md:w-24 lg:w-32"
-                /> */}
+          src={company.nameImg}
+          alt={company.name}
+          width={company.id === 4 || company.id === 5 ? 100 : 150}
+          height={50}
+          className="w-16 sm:w-20 md:w-24 lg:w-32"
+        /> */}
               </div>
             </React.Fragment>
           ))}

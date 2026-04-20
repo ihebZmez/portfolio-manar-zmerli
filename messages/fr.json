@@ -33,37 +33,37 @@
     "sectionTitle": "Mes Services",
     "sectionDescription": "Des solutions complètes en analyse de données pour transformer vos données en insights exploitables.",
     "items": {
-      "commerce": {
+      "DataCleaning": {
         "title": "Data Cleaning",
         "description": "Nettoyage, structuration et préparation des données pour garantir leur qualité et leur exploitation.",
         "metaDescription": "Services de nettoyage et préparation de données pour analyses fiables."
       },
-      "services": {
+      "ExploratoryDataAnalysis": {
         "title": "Exploratory Data Analysis",
         "description": "Analyse exploratoire des données pour identifier tendances, patterns et anomalies.",
         "metaDescription": "Analyse exploratoire pour comprendre vos données en profondeur."
       },
-      "hospitality": {
+      "DataVisualization": {
         "title": "Data Visualization",
         "description": "Création de dashboards interactifs et visuels avec Power BI et Tableau.",
         "metaDescription": "Visualisation de données et dashboards interactifs."
       },
-      "realEstate": {
+      "StatisticalModeling": {
         "title": "Statistical Modeling",
         "description": "Construction de modèles statistiques pour comprendre et prédire les comportements.",
         "metaDescription": "Modélisation statistique et prédictive des données."
       },
-      "industry": {
+      "BusinessIntelligence": {
         "title": "Business Intelligence",
         "description": "Conception de solutions BI pour le suivi de performance et la prise de décision.",
         "metaDescription": "Solutions BI pour piloter la performance des entreprises."
       },
-      "HotelAndTourisme": {
+      "AutomatedReporting": {
         "title": "Reporting Automatisé",
         "description": "Automatisation des rapports pour un suivi rapide et efficace des KPIs.",
         "metaDescription": "Rapports automatisés et dashboards de suivi."
       },
-      "PromotionImmobiliere": {
+      "DataInsightsConsulting": {
         "title": "Data Insights Consulting",
         "description": "Accompagnement des entreprises pour transformer leurs données en décisions stratégiques.",
         "metaDescription": "Conseil en data et aide à la décision basée sur les données."
@@ -98,40 +98,69 @@
   },
   "activities": {
     "title": "Mes Projets",
-    "cta": "Voir projet",
+    "cta": "Voir le projet",
     "items": {
-      "commerceTitle": "Analyse des ventes retail",
-      "commerceDescription": "Analyse des performances de ventes et identification des produits les plus rentables avec Python et Power BI.",
-      "servicesTitle": "Étude de satisfaction client",
-      "servicesDescription": "Analyse des retours clients et segmentation pour améliorer la satisfaction.",
-      "hospitalityTitle": "Dashboard hôtelier",
-      "hospitalityDescription": "Création de dashboards pour suivre l’occupation et les revenus hôteliers.",
-      "realEstateTitle": "Analyse immobilière",
-      "realEstateDescription": "Étude des prix du marché immobilier et prédiction des tendances."
+      "sales_dashboard_title": "Tableau de Bord des Performances Commerciales",
+      "sales_dashboard_description": "Tableau de bord interactif analysant les KPI de vente, les tendances de revenus et les indicateurs de performance avec Power BI, SQL et Excel.",
+
+      "customer_segmentation_title": "Analyse de Segmentation Clients",
+      "customer_segmentation_description": "Segmentation et clustering du comportement client utilisant Python, Pandas, NumPy et des techniques statistiques avancées.",
+
+      "financial_analysis_title": "Analyse des Données Financières",
+      "financial_analysis_description": "Évaluation de la performance financière, analyse de rentabilité et reporting analytique réalisés avec Excel, Tableau et bases de données SQL.",
+
+      "marketing_analytics_title": "Analyse Marketing & Performance des Campagnes",
+      "marketing_analytics_description": "Analyse des campagnes marketing et visualisation des données grâce à Python, Matplotlib, Seaborn et Jupyter Notebook.",
+
+      "hr_analytics_title": "Tableau de Bord RH & Analyse des Talents",
+      "hr_analytics_description": "Analyse des données RH incluant la rétention des employés, le suivi de performance et les indicateurs workforce via PostgreSQL et Power BI.",
+
+      "predictive_modeling_title": "Modélisation Prédictive & Prévisions",
+      "predictive_modeling_description": "Développement de modèles prédictifs et prévisions statistiques utilisant Python, R, SPSS, SAS et Apache Spark.",
+
+      "data_engineering_title": "Pipeline Data Engineering",
+      "data_engineering_description": "Conception de pipelines ETL automatisés et architecture Data Warehouse avec Apache Airflow, dbt, Docker et AWS.",
+
+      "database_management_title": "Gestion des Bases de Données & Architecture Data",
+      "database_management_description": "Conception, optimisation et gestion des bases de données avec MySQL, MongoDB, PostgreSQL ainsi que le versioning via Git et GitHub."
     }
   },
   "testimonials": {
     "title": "Ce que disent mes clients",
     "items": {
-      "t1Quote": "Manar a transformé nos données en insights clairs et exploitables.",
-      "t1Name": "Client 1",
+      "t1Quote": "Manar a une excellente capacité à transformer des données complexes en insights clairs et exploitables, ce qui a fortement amélioré notre prise de décision.",
+      "t1Name": "Sarah Johnson",
       "t1Role": "Business Analyst",
-      "t2Quote": "Très professionnelle et précise dans ses analyses.",
-      "t2Name": "Client 2",
+
+      "t2Quote": "Son sens du détail et sa rigueur analytique sont remarquables. Les rapports et dashboards livrés étaient précis et faciles à interpréter.",
+      "t2Name": "David Chen",
       "t2Role": "Data Manager",
-      "t3Quote": "Ses dashboards nous ont permis de mieux comprendre notre activité.",
-      "t3Name": "Client 3",
-      "t3Role": "CEO Startup"
+
+      "t3Quote": "Travailler avec Manar nous a permis d’améliorer significativement le suivi de nos performances. Ses dashboards offrent une vision claire de nos KPI.",
+      "t3Name": "Amine Ben Salah",
+      "t3Role": "CEO Startup",
+
+      "t4Quote": "Le travail analytique de Manar nous a permis d’identifier des opportunités de croissance que nous n’avions pas détectées auparavant dans nos données.",
+      "t4Name": "Michael Brown",
+      "t4Role": "Chef de produit",
+
+      "t5Quote": "Sa capacité à structurer des données complexes et à livrer des dashboards clairs a considérablement amélioré notre reporting.",
+      "t5Name": "Emma Wilson",
+      "t5Role": "Directrice des opérations",
+
+      "t6Quote": "Son sens du détail et sa rigueur analytique sont remarquables. Les rapports et dashboards livrés étaient précis et faciles à interpréter.",
+      "t6Name": "David Chen",
+      "t6Role": "Data Manager"
     }
   },
   "expertise": {
     "title": "Mes Compétences",
     "categories": {
-      "commerce": "Data Analysis",
-      "services": "BI & Reporting",
-      "hospitality": "Data Visualization",
-      "realEstate": "Statistical Modeling",
-      "industry": "Machine Learning"
+      "analytics": "Analyse de Données",
+      "bi": "BI & Reporting",
+      "visualization": "Visualisation de Données",
+      "statistics": "Analyse Statistique",
+      "engineering": "Data Engineering & Outils"
     },
     "stats": {
       "yearsExperience": "Années d'Expérience",
@@ -139,35 +168,43 @@
       "projectsCount": "Dashboards Créés"
     },
     "items": {
-      "industry": {
-        "reliability": "Fiabilité des analyses",
-        "innovation": "Innovation data",
-        "qualitySafety": "Qualité des données",
-        "industrialOperations": "Optimisation des données"
+      "analytics": {
+        "dataCleaning": "Nettoyage et préparation des données",
+        "eda": "Analyse exploratoire des données",
+        "dataMining": "Fouille de données",
+        "insights": "Insights métiers"
       },
-      "realEstate": {
-        "execution": "Modélisation",
-        "projectSourcing": "Exploration de données",
-        "assetValue": "Analyse prédictive",
-        "propertyDevelopment": "Business Intelligence"
+      "bi": {
+        "powerbi": "Tableaux de bord Power BI",
+        "tableau": "Reporting Tableau",
+        "excel": "Analyse Excel",
+        "reporting": "Reporting automatisé"
       },
-      "hospitality": {
-        "operations": "Reporting",
-        "tourismDevelopment": "Analyse KPI",
-        "guestExperience": "Customer insights",
-        "luxuryHotels": "Data dashboards"
+      "visualization": {
+        "matplotlib": "Visualisation de données",
+        "seaborn": "Visualisation statistique",
+        "pieChart": "Création de graphiques",
+        "storytelling": "Data Storytelling"
       },
-      "services": {
-        "operationalExcellence": "Reporting automatisé",
-        "maintenance": "Data pipelines",
-        "customerService": "Analyse client",
-        "afterSales": "Support analytique"
+      "statistics": {
+        "statistics": "Analyse statistique",
+        "r": "Programmation R",
+        "spss": "IBM SPSS",
+        "modeling": "Modélisation prédictive"
       },
-      "commerce": {
-        "procurement": "Analyse supply chain",
-        "logistics": "Optimisation logistique",
-        "retail": "Retail analytics",
-        "distribution": "Sales analytics"
+      "engineering": {
+        "python": "Python",
+        "sql": "SQL",
+        "pandas": "Pandas",
+        "numpy": "NumPy",
+        "airflow": "Apache Airflow",
+        "spark": "Apache Spark",
+        "dbt": "dbt",
+        "aws": "AWS",
+        "docker": "Docker",
+        "git": "Git",
+        "github": "GitHub",
+        "jupyter": "Jupyter Notebook"
       }
     }
   },
