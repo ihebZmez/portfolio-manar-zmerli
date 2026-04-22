@@ -32,8 +32,7 @@ export const seoConfig = {
 
 export const pageMetadata = {
   home: {
-    title:
-      "AREM GROUP – Leader in Multi-Sector Development in Tunisia",
+    title: "AREM GROUP – Leader in Multi-Sector Development in Tunisia",
     description:
       "AREM GROUP is a Tunisian multidisciplinary group founded in 1979, delivering excellence across multiple sectors.",
     keywords:
@@ -43,8 +42,7 @@ export const pageMetadata = {
     title: "About AREM GROUP | Founded in 1979",
     description:
       "Founded in 1979 by Jamel AREM, AREM GROUP is a Tunisian multidisciplinary group focused on diversification, stability, and growth.",
-    keywords:
-      "AREM GROUP, about, Tunisia, diversification, stability, growth",
+    keywords: "AREM GROUP, about, Tunisia, diversification, stability, growth",
   },
   services: {
     title: "Services | AREM GROUP",
@@ -57,8 +55,7 @@ export const pageMetadata = {
     title: "Activities | AREM GROUP",
     description:
       "Discover AREM GROUP activities and how we deliver multi-sector value across Tunisia.",
-    keywords:
-      "activities, AREM GROUP, Tunisia, multi-sector, development",
+    keywords: "activities, AREM GROUP, Tunisia, multi-sector, development",
   },
   skills: {
     title: "Expertise | AREM GROUP",
@@ -70,8 +67,7 @@ export const pageMetadata = {
   contact: {
     title: "Contact | AREM GROUP",
     description:
-      "Contact AREM GROUP in Charguia, Ariana, Tunisia. Phone: (+216) 71 80 88 35. Website: http://www.aremgroup.com",
-    keywords:
-      "contact, AREM GROUP, Ariana, Tunisia, phone, address",
+      "Contact AREM GROUP in Charguia, Ariana, Tunisia. Phone: (+216) 54 11 18 22. Website: http://www.aremgroup.com",
+    keywords: "contact, AREM GROUP, Ariana, Tunisia, phone, address",
   },
 };

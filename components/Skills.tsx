@@ -107,7 +107,7 @@ const Skills = () => {
             {/* Framework Skills */}
             <div className="skill-category">
               <h4 className="skill-heading">
-                {t("expertise.categories.commerce")}
+                {t("expertise.categories.skill1")}
               </h4>
               <div className="skill-content">
                 <AnimatedTooltip items={commerceItems} />
@@ -117,7 +117,7 @@ const Skills = () => {
             {/* Programming Languages */}
             <div className="skill-category">
               <h4 className="skill-heading">
-                {t("expertise.categories.services")}
+                {t("expertise.categories.skill2")}
               </h4>
               <div className="skill-content">
                 <AnimatedTooltip items={servicesItems} />
@@ -127,7 +127,7 @@ const Skills = () => {
             {/* Technologies */}
             <div className="skill-category">
               <h4 className="skill-heading">
-                {t("expertise.categories.hospitality")}
+                {t("expertise.categories.skill3")}
               </h4>
               <div className="skill-content">
                 <AnimatedTooltip items={hospitalityItems} />
@@ -137,7 +137,7 @@ const Skills = () => {
             {/* Databases */}
             <div className="skill-category">
               <h4 className="skill-heading">
-                {t("expertise.categories.realEstate")}
+                {t("expertise.categories.skill4")}
               </h4>
               <div className="skill-content">
                 <AnimatedTooltip items={realEstateItems} />
@@ -147,7 +147,7 @@ const Skills = () => {
             {/* Tools */}
             <div className="skill-category">
               <h4 className="skill-heading">
-                {t("expertise.categories.industry")}
+                {t("expertise.categories.skill5")}
               </h4>
               <div className="skill-content">
                 <AnimatedTooltip items={industryItems} />

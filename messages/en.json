@@ -3,7 +3,7 @@
     "title": "Manar Zmerli – Data Analyst Portfolio",
     "description": "Manar Zmerli is a data analyst based in Tunisia, specialized in data analysis, visualization, and business intelligence.",
     "keywords": "data analyst, Tunisia, Power BI, Python, SQL, data visualization, business intelligence, Manar Zmerli",
-    "whatsappPhone": "+21600000000",
+    "whatsappPhone": "+21654111822",
     "whatsapp": "Hello! I would like to discuss my data analysis needs with you."
   },
   "nav": {
@@ -156,11 +156,11 @@
   "expertise": {
     "title": "My Skills",
     "categories": {
-      "analytics": "Data Analysis",
-      "bi": "BI & Reporting",
-      "visualization": "Data Visualization",
-      "statistics": "Statistical Analysis",
-      "engineering": "Data Engineering & Tools"
+      "skill1": "Data Analysis",
+      "skill2": "BI & Reporting",
+      "skill3": "Data Visualization",
+      "skill4": "Statistical Analysis",
+      "skill5": "Data Engineering & Tools"
     },
     "stats": {
       "yearsExperience": "Years of Experience",
@@ -254,7 +254,7 @@
     "title": "Let’s work together on your data",
     "subtitle": "Contact me to transform your data into decisions.",
     "address": "Tunisia",
-    "phone": "+21600000000",
+    "phone": "+21654111822",
     "website": "manarzmerli.com",
     "cta": "Contact Me",
     "copyright": "All rights reserved."

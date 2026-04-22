@@ -11,7 +11,7 @@ interface WhatsAppButtonProps {
 }
 
 export const WhatsAppButton = ({
-  phoneNumber = "+1234567890", // Default phone number - change this to your actual number
+  phoneNumber = "+21654111822", // Default phone number - change this to your actual number
   message = "Hello! I'm interested in your services.", // Default message - can be customized
   className,
 }: WhatsAppButtonProps) => {
@@ -39,7 +39,7 @@ export const WhatsAppButton = ({
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/${phoneNumber.replace(
       /[^\d]/g,
-      ""
+      "",
     )}?text=${encodedMessage}`;
     window.open(whatsappUrl, "_blank");
   };
@@ -61,7 +61,7 @@ export const WhatsAppButton = ({
       onClick={handleWhatsAppClick}
       className={cn(
         "group fixed bottom-6 left-6 z-[5000] flex h-14 w-14 items-center justify-center rounded-full border border-border/70 bg-primary text-primary-foreground shadow-floating backdrop-blur-xl transition-all duration-300 ease-in-out hover:scale-110 hover:bg-secondary active:scale-95",
-        className
+        className,
       )}
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.95 }}

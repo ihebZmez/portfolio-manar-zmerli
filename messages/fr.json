@@ -3,7 +3,7 @@
     "title": "Manar Zmerli – Data Analyst Portfolio",
     "description": "Manar Zmerli est une data analyst basée en Tunisie, spécialisée en analyse de données, visualisation et business intelligence.",
     "keywords": "data analyst, Tunisia, Power BI, Python, SQL, data visualization, business intelligence, Manar Zmerli",
-    "whatsappPhone": "+21600000000",
+    "whatsappPhone": "+21654111822",
     "whatsapp": "Bonjour ! Je souhaite discuter avec vous de mes besoins en analyse de données."
   },
   "nav": {
@@ -156,11 +156,11 @@
   "expertise": {
     "title": "Mes Compétences",
     "categories": {
-      "analytics": "Analyse de Données",
-      "bi": "BI & Reporting",
-      "visualization": "Visualisation de Données",
-      "statistics": "Analyse Statistique",
-      "engineering": "Data Engineering & Outils"
+      "skill1": "Analyse de Données",
+      "skill2": "BI & Reporting",
+      "skill3": "Visualisation de Données",
+      "skill4": "Analyse Statistique",
+      "skill5": "Data Engineering & Outils"
     },
     "stats": {
       "yearsExperience": "Années d'Expérience",
@@ -213,24 +213,24 @@
     "ctaPrefix": "Pour plus d’informations sur mon profil,",
     "ctaLink": "me contacter directement",
     "items": {
-      "m1Title": "Début en Data Analytics",
-      "m1Desc": "Premiers projets en analyse de données et visualisation.",
-      "m1Tags": "Excel | SQL | Python",
-      "m2Title": "Développement BI",
-      "m2Desc": "Création de dashboards et reporting automatisé.",
-      "m2Tags": "Power BI | Tableau | Reporting",
-      "m3Title": "Analyse avancée",
-      "m3Desc": "Modélisation statistique et analyses prédictives.",
-      "m3Tags": "Python | Machine Learning | Stats",
-      "m4Title": "Projets professionnels",
-      "m4Desc": "Analyse de données pour entreprises réelles.",
-      "m4Tags": "BI | Data Analysis | Business",
-      "m5Title": "Optimisation data",
-      "m5Desc": "Amélioration des pipelines et qualité des données.",
-      "m5Tags": "ETL | SQL | Data Engineering",
-      "m6Title": "Aujourd’hui",
-      "m6Desc": "Data Analyst orientée insights et décision.",
-      "m6Tags": "Analytics | BI | Strategy"
+      "data1Title": "Début en Data Analytics",
+      "data1Desc": "Premiers projets en analyse de données et visualisation.",
+      "data1Tags": "Excel | SQL | Python",
+      "data2Title": "Développement BI",
+      "data2Desc": "Création de dashboards et reporting automatisé.",
+      "data2Tags": "Power BI | Tableau | Reporting",
+      "data3Title": "Analyse avancée",
+      "data3Desc": "Modélisation statistique et analyses prédictives.",
+      "data3Tags": "Python | Machine Learning | Stats",
+      "data4Title": "Projets professionnels",
+      "data4Desc": "Analyse de données pour entreprises réelles.",
+      "data4Tags": "BI | Data Analysis | Business",
+      "data5Title": "Optimisation data",
+      "data5Desc": "Amélioration des pipelines et qualité des données.",
+      "data5Tags": "ETL | SQL | Data Engineering",
+      "data6Title": "Aujourd’hui",
+      "data6Desc": "Data Analyst orientée insights et décision.",
+      "data6Tags": "Analytics | BI | Strategy"
     }
   },
   "approach": {
@@ -249,7 +249,7 @@
     "title": "Travaillons ensemble sur vos données",
     "subtitle": "Contactez-moi pour transformer vos données en décisions.",
     "address": "Tunisie",
-    "phone": "+21600000000",
+    "phone": "+21654111822",
     "website": "manarzmerli.com",
     "cta": "Me contacter",
     "copyright": "Tous droits réservés."

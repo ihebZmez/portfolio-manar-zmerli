@@ -207,7 +207,7 @@ export const projects = [
     id: 1,
     titleKey: "activities.items.sales_dashboard_title",
     desKey: "activities.items.sales_dashboard_description",
-    img: "/project_display/data_sales_dashboard.jpg",
+    img: "/project_display/Sales-Performance-Dashboard.png",
     iconLists: [
       "/Tech/Power-BI.svg",
       "/Tech/SQL.svg",
@@ -222,7 +222,7 @@ export const projects = [
     id: 2,
     titleKey: "activities.items.customer_segmentation_title",
     desKey: "activities.items.customer_segmentation_description",
-    img: "/project_display/data_customer_segmentation.jpg",
+    img: "/project_display/Customer-Segmentation-Analysis.png",
     iconLists: [
       "/Tech/Python.svg",
       "/Tech/Pandas.svg",
@@ -238,7 +238,7 @@ export const projects = [
     id: 3,
     titleKey: "activities.items.financial_analysis_title",
     desKey: "activities.items.financial_analysis_description",
-    img: "/project_display/data_financial_analysis.jpg",
+    img: "/project_display/Financial-Data-Analysis.png",
     iconLists: [
       "/Tech/Excel.svg",
       "/Tech/Tableau.svg",
@@ -253,7 +253,7 @@ export const projects = [
     id: 4,
     titleKey: "activities.items.marketing_analytics_title",
     desKey: "activities.items.marketing_analytics_description",
-    img: "/project_display/data_marketing_analysis.jpg",
+    img: "/project_display/Marketing-Analytics-Campaign-Insights.png",
     iconLists: [
       "/Tech/Python.svg",
       "/Tech/Matplotlib.svg",
@@ -268,7 +268,7 @@ export const projects = [
     id: 5,
     titleKey: "activities.items.hr_analytics_title",
     desKey: "activities.items.hr_analytics_description",
-    img: "/project_display/data_hr_analytics.jpg",
+    img: "/project_display/HR-Analytics-Dashboard.png",
     iconLists: [
       "/Tech/PostgreSQL.svg",
       "/Tech/Power-BI.svg",
@@ -283,7 +283,7 @@ export const projects = [
     id: 6,
     titleKey: "activities.items.predictive_modeling_title",
     desKey: "activities.items.predictive_modeling_description",
-    img: "/project_display/data_predictive_model.jpg",
+    img: "/project_display/Predictive-Modeling-Forecasting.png",
     iconLists: [
       "/Tech/Python.svg",
       "/Tech/R.svg",
@@ -299,7 +299,7 @@ export const projects = [
     id: 7,
     titleKey: "activities.items.data_engineering_title",
     desKey: "activities.items.data_engineering_description",
-    img: "/project_display/data_engineering.jpg",
+    img: "/project_display/Data-Engineering-Pipeline.png",
     iconLists: [
       "/Tech/Apache-Airflow.svg",
       "/Tech/DBT.svg",
@@ -315,7 +315,7 @@ export const projects = [
     id: 8,
     titleKey: "activities.items.database_management_title",
     desKey: "activities.items.database_management_description",
-    img: "/project_display/data_database_management.jpg",
+    img: "/project_display/Database-Management-Data-Architecture.png",
     iconLists: [
       "/Tech/Mysql.svg",
       "/Tech/Mongodb.svg",

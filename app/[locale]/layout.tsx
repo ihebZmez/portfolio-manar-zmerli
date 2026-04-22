@@ -19,7 +19,8 @@ export async function generateMetadata({
   const brandName = siteConfig.brand?.name || "MY_COMPANY";
   // Fallback to empty string or you can add website to your siteConfig.contact
   const websiteUrl =
-    (siteConfig.contact as any)?.website || "http://www.aremgroup.com";
+    (siteConfig.contact as any)?.website ||
+    "https://tn.linkedin.com/in/manar-zmerli-3961931a3";
 
   return {
     title: t("title"),

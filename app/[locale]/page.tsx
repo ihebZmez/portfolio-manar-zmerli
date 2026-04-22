@@ -54,7 +54,8 @@ const Home = () => {
         <link
           rel="canonical"
           href={
-            (siteConfig.contact as any)?.website || "http://www.aremgroup.com"
+            (siteConfig.contact as any)?.website ||
+            "https://tn.linkedin.com/in/manar-zmerli-3961931a3"
           }
         />
       </Head>

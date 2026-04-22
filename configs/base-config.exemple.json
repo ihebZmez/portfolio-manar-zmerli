@@ -1,7 +1,7 @@
 {
   "templateType": "distribution-company",
   "brand": {
-    "name": "Distribution Company",
+    "name": "Manar Zmerli",
     "slogan": "Your trusted business partner",
     "logo": "/fm.svg",
     "favicon": "/assets/favicon.ico",
@@ -20,7 +20,7 @@
     "darkMode": false
   },
   "contact": {
-    "phone": "+216 00 000 000",
+    "phone": "+216 54 11 18 22",
     "email": "contact@company.tn",
     "address": "Tunis, Tunisia",
     "googleMaps": "",
@@ -52,9 +52,9 @@
     "projectsCount": 13
   },
   "legal": {
-    "companyName": "Distribution Company SARL",
+    "companyName": "Manar Zmerli SARL",
     "rc": "",
     "mf": "",
-    "copyright": "© 2026 Distribution Company"
+    "copyright": "© 2026 Manar Zmerli"
   }
 }

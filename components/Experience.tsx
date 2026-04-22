@@ -10,14 +10,12 @@ const Experience = () => {
   const t = useTranslations();
 
   const openPDF = () => {
-    window.open("http://www.aremgroup.com", "_blank");
+    window.open("https://tn.linkedin.com/in/manar-zmerli-3961931a3", "_blank");
   };
 
   return (
     <div className="w-full py-section">
-      <h1 className="heading">
-        {t("milestones.title")}
-      </h1>
+      <h1 className="heading">{t("milestones.title")}</h1>
       <p className="text-center pt-14 md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
         {t("milestones.ctaPrefix")}{" "}
         <motion.span
