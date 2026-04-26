@@ -337,37 +337,37 @@ export const testimonials = [
     quoteKey: "testimonials.items.t1Quote",
     nameKey: "testimonials.items.t1Name",
     titleKey: "testimonials.items.t1Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_1.png",
   },
   {
     quoteKey: "testimonials.items.t2Quote",
     nameKey: "testimonials.items.t2Name",
     titleKey: "testimonials.items.t2Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_2.png",
   },
   {
     quoteKey: "testimonials.items.t3Quote",
     nameKey: "testimonials.items.t3Name",
     titleKey: "testimonials.items.t3Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_3.png",
   },
   {
     quoteKey: "testimonials.items.t3Quote",
     nameKey: "testimonials.items.t3Name",
     titleKey: "testimonials.items.t3Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_4.svg",
   },
   {
     quoteKey: "testimonials.items.t3Quote",
     nameKey: "testimonials.items.t3Name",
     titleKey: "testimonials.items.t3Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_5.png",
   },
   {
     quoteKey: "testimonials.items.t3Quote",
     nameKey: "testimonials.items.t3Name",
     titleKey: "testimonials.items.t3Role",
-    image_profil: "/profile.svg",
+    image_profil: "/testemonial_profiles/profile_6.png",
   },
 ];
 /* =========================
@@ -454,8 +454,8 @@ export const database_skills = [
   },
   {
     id: 2,
-    nameKey: "expertise.items.datascience.machineLearning",
-    name: "Machine Learning",
+    nameKey: "expertise.items.visualization.seaborn",
+    name: "Seaborn",
     designation: "",
     image: "/Tech/Seaborn.svg",
   },
@@ -592,6 +592,38 @@ export const companies = [
     img: "/companies_display/Psychology.png",
     nameImg: "/companies_display/PsychologyName.svg",
   },
+  {
+    id: 5,
+    nameKey: "services.items.realEstate.title",
+    designation: "",
+    image: "/companies_display/AGENCE-WEB-SIGMA.jpg",
+    img: "/companies_display/AGENCE-WEB-SIGMA.jpg",
+    nameImg: "/companies_display/AGENCE-WEB-SIGMA.jpg",
+  },
+  {
+    id: 6,
+    nameKey: "services.items.realEstate.title",
+    designation: "",
+    image: "/companies_display/ALZI.jpg",
+    img: "/companies_display/ALZI.jpg",
+    nameImg: "/companies_display/ALZI.jpg",
+  },
+  {
+    id: 7,
+    nameKey: "services.items.realEstate.title",
+    designation: "",
+    image: "/companies_display/A-NETWORK-SOLUTION.jpg",
+    img: "/companies_display/A-NETWORK-SOLUTION.jpg",
+    nameImg: "/companies_display/A-NETWORK-SOLUTION.jpg",
+  },
+  {
+    id: 8,
+    nameKey: "services.items.realEstate.title",
+    designation: "",
+    image: "/companies_display/ASM-COMMUNICATION.jpg",
+    img: "/companies_display/ASM-COMMUNICATION.jpg",
+    nameImg: "/companies_display/ASM-COMMUNICATION.jpg",
+  }
 ];
 
 /* =========================
