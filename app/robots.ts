@@ -10,6 +10,6 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 1,
       },
     ],
-    sitemap: "http://www.aremgroup.com/sitemap.xml",
+    sitemap: "https://portfolio-manar-zmerli.vercel.app/sitemap.xml",
   };
 }

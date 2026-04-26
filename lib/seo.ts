@@ -1,73 +1,119 @@
-export const seoConfig = {
-  siteName: "AREM GROUP",
-  siteUrl: "http://www.aremgroup.com",
-  description:
-    "AREM GROUP is a Tunisian multidisciplinary group founded in 1979, delivering excellence in commerce & distribution, services, hospitality & tourism, and real estate development.",
-  keywords: [
-    "Tunisie",
-    "AREM GROUP",
-    "commerce et distribution",
-    "services",
-    "hôtellerie",
-    "tourisme",
-    "promotion immobilière",
-    "real estate development",
-    "multisector",
-    "Tunisian group",
-  ],
-  author: "AREM GROUP",
-  locale: "en_TN",
+// lib/seo.ts
+import en from "@/messages/en.json";
+import fr from "@/messages/fr.json";
+
+type Language = "en" | "fr";
+
+interface SeoConfig {
+  siteName: string;
+  siteUrl: string;
+  description: string;
+  keywords: string[];
+  author: string;
+  locale: Record<Language, string>;
+  openGraph: {
+    type: string;
+    locale: Record<Language, string>;
+    url: string;
+    siteName: string;
+  };
+  twitter: {
+    cardType: string;
+  };
+}
+
+export const seoConfig: SeoConfig = {
+  siteName: "Manar Zmerli",
+  siteUrl: "https://portfolio-manar-zmerli.vercel.app",
+  description: "Data analyst based in Tunisia, specialized in data analysis, visualization, and business intelligence.",
+  keywords: ["data analyst", "Tunisia", "Power BI", "Python", "SQL", "data visualization", "business intelligence"],
+  author: "Manar Zmerli",
+  locale: {
+    en: "en_TN",
+    fr: "fr_TN",
+  },
   openGraph: {
     type: "website",
-    locale: "en_TN",
-    url: "http://www.aremgroup.com",
-    siteName: "AREM GROUP",
+    locale: {
+      en: "en_TN",
+      fr: "fr_TN",
+    },
+    url: "https://portfolio-manar-zmerli.vercel.app",
+    siteName: "Manar Zmerli",
   },
   twitter: {
-    handle: "@aremgroup",
-    site: "@aremgroup",
     cardType: "summary_large_image",
   },
 };
 
-export const pageMetadata = {
-  home: {
-    title: "AREM GROUP – Leader in Multi-Sector Development in Tunisia",
-    description:
-      "AREM GROUP is a Tunisian multidisciplinary group founded in 1979, delivering excellence across multiple sectors.",
-    keywords:
-      "AREM GROUP, Tunisia, commerce and distribution, services, hospitality, tourism, real estate development",
-  },
-  about: {
-    title: "About AREM GROUP | Founded in 1979",
-    description:
-      "Founded in 1979 by Jamel AREM, AREM GROUP is a Tunisian multidisciplinary group focused on diversification, stability, and growth.",
-    keywords: "AREM GROUP, about, Tunisia, diversification, stability, growth",
-  },
-  services: {
-    title: "Services | AREM GROUP",
-    description:
-      "Explore our core sectors: commerce & distribution, services, hospitality & tourism, and real estate development.",
-    keywords:
-      "services, commerce and distribution, hospitality, tourism, real estate development, Tunisia",
-  },
-  projects: {
-    title: "Activities | AREM GROUP",
-    description:
-      "Discover AREM GROUP activities and how we deliver multi-sector value across Tunisia.",
-    keywords: "activities, AREM GROUP, Tunisia, multi-sector, development",
-  },
-  skills: {
-    title: "Expertise | AREM GROUP",
-    description:
-      "Our expertise spans commerce & distribution, services, hospitality & tourism, real estate development, and industrial operations.",
-    keywords:
-      "expertise, commerce, services, hospitality, tourism, real estate, industry",
-  },
-  contact: {
-    title: "Contact | AREM GROUP",
-    description:
-      "Contact AREM GROUP in Charguia, Ariana, Tunisia. Phone: (+216) 54 11 18 22. Website: http://www.aremgroup.com",
-    keywords: "contact, AREM GROUP, Ariana, Tunisia, phone, address",
-  },
+interface PageMetadataParams {
+  lang: Language;
+  t?: any;
+}
+
+export const getPageMetadata = ({ lang, t }: PageMetadataParams) => {
+  const translations = lang === "en" ? en : fr;
+
+  return {
+    home: {
+      title: translations.meta.title,
+      description: translations.meta.description,
+      keywords: translations.meta.keywords,
+    },
+    about: {
+      title: `${translations.nav.about} | ${seoConfig.siteName}`,
+      description: `${translations.about.tile1Title} ${translations.about.tile1Description}`,
+      keywords: seoConfig.keywords.join(", "),
+    },
+    services: {
+      title: `${translations.services.sectionTitle} | ${seoConfig.siteName}`,
+      description: translations.services.sectionDescription,
+      keywords: seoConfig.keywords.join(", "),
+    },
+    projects: {
+      title: `${translations.activities.title} | ${seoConfig.siteName}`,
+      description: `${translations.activities.title} - ${translations.hero.description}`,
+      keywords: seoConfig.keywords.join(", "),
+    },
+    skills: {
+      title: `${translations.expertise.title} | ${seoConfig.siteName}`,
+      description: `${translations.expertise.title} - Python, SQL, Power BI, Tableau`,
+      keywords: seoConfig.keywords.join(", "),
+    },
+    contact: {
+      title: `${translations.nav.contact} | ${seoConfig.siteName}`,
+      description: `Contact ${seoConfig.siteName} in Tunisia. Phone: ${translations.meta.whatsappPhone}`,
+      keywords: seoConfig.keywords.join(", "),
+    },
+  };
+};
+
+// Helper to get metadata for current language
+export const getMetadataForPage = (page: keyof ReturnType<typeof getPageMetadata>, lang: Language, t: any) => {
+  const metadata = getPageMetadata({ lang, t })[page];
+  return {
+    title: metadata.title,
+    description: metadata.description,
+    keywords: metadata.keywords,
+    openGraph: {
+      title: metadata.title,
+      description: metadata.description,
+      url: `${seoConfig.siteUrl}/${lang}`,
+      siteName: seoConfig.openGraph.siteName,
+      locale: seoConfig.openGraph.locale[lang],
+      type: seoConfig.openGraph.type,
+    },
+    twitter: {
+      card: seoConfig.twitter.cardType,
+      title: metadata.title,
+      description: metadata.description,
+    },
+    alternates: {
+      canonical: `${seoConfig.siteUrl}/${lang}`,
+      languages: {
+        en: `${seoConfig.siteUrl}/en`,
+        fr: `${seoConfig.siteUrl}/fr`,
+      },
+    },
+  };
 };

@@ -102,25 +102,18 @@
     "items": {
       "sales_dashboard_title": "Tableau de Bord des Performances Commerciales",
       "sales_dashboard_description": "Tableau de bord interactif analysant les KPI de vente, les tendances de revenus et les indicateurs de performance avec Power BI, SQL et Excel.",
-
       "customer_segmentation_title": "Analyse de Segmentation Clients",
       "customer_segmentation_description": "Segmentation et clustering du comportement client utilisant Python, Pandas, NumPy et des techniques statistiques avancées.",
-
       "financial_analysis_title": "Analyse des Données Financières",
       "financial_analysis_description": "Évaluation de la performance financière, analyse de rentabilité et reporting analytique réalisés avec Excel, Tableau et bases de données SQL.",
-
       "marketing_analytics_title": "Analyse Marketing & Performance des Campagnes",
       "marketing_analytics_description": "Analyse des campagnes marketing et visualisation des données grâce à Python, Matplotlib, Seaborn et Jupyter Notebook.",
-
       "hr_analytics_title": "Tableau de Bord RH & Analyse des Talents",
       "hr_analytics_description": "Analyse des données RH incluant la rétention des employés, le suivi de performance et les indicateurs workforce via PostgreSQL et Power BI.",
-
       "predictive_modeling_title": "Modélisation Prédictive & Prévisions",
       "predictive_modeling_description": "Développement de modèles prédictifs et prévisions statistiques utilisant Python, R, SPSS, SAS et Apache Spark.",
-
       "data_engineering_title": "Pipeline Data Engineering",
       "data_engineering_description": "Conception de pipelines ETL automatisés et architecture Data Warehouse avec Apache Airflow, dbt, Docker et AWS.",
-
       "database_management_title": "Gestion des Bases de Données & Architecture Data",
       "database_management_description": "Conception, optimisation et gestion des bases de données avec MySQL, MongoDB, PostgreSQL ainsi que le versioning via Git et GitHub."
     }
@@ -131,26 +124,33 @@
       "t1Quote": "Manar a une excellente capacité à transformer des données complexes en insights clairs et exploitables, ce qui a fortement amélioré notre prise de décision.",
       "t1Name": "Sarah Johnson",
       "t1Role": "Business Analyst",
-
       "t2Quote": "Son sens du détail et sa rigueur analytique sont remarquables. Les rapports et dashboards livrés étaient précis et faciles à interpréter.",
       "t2Name": "David Chen",
       "t2Role": "Data Manager",
-
-      "t3Quote": "Travailler avec Manar nous a permis d’améliorer significativement le suivi de nos performances. Ses dashboards offrent une vision claire de nos KPI.",
+      "t3Quote": "Travailler avec Manar nous a permis d'améliorer significativement le suivi de nos performances. Ses dashboards offrent une vision claire de nos KPI.",
       "t3Name": "Amine Ben Salah",
       "t3Role": "CEO Startup",
-
-      "t4Quote": "Le travail analytique de Manar nous a permis d’identifier des opportunités de croissance que nous n’avions pas détectées auparavant dans nos données.",
+      "t4Quote": "Le travail analytique de Manar nous a permis d'identifier des opportunités de croissance que nous n'avions pas détectées auparavant dans nos données.",
       "t4Name": "Michael Brown",
       "t4Role": "Chef de produit",
-
       "t5Quote": "Sa capacité à structurer des données complexes et à livrer des dashboards clairs a considérablement amélioré notre reporting.",
       "t5Name": "Emma Wilson",
       "t5Role": "Directrice des opérations",
-
-      "t6Quote": "Son sens du détail et sa rigueur analytique sont remarquables. Les rapports et dashboards livrés étaient précis et faciles à interpréter.",
-      "t6Name": "David Chen",
-      "t6Role": "Data Manager"
+      "t6Quote": "Les dashboards que Manar a créés pour notre équipe marketing nous ont fait gagner des heures de travail manuel chaque semaine. Hautement recommandé !",
+      "t6Name": "James Carter",
+      "t6Role": "Responsable Marketing Analytics",
+      "t7Quote": "Les analyses de Manar nous ont aidés à réduire nos coûts opérationnels de 15 %. Son approche analytique est méthodique et axée sur les résultats.",
+      "t7Name": "Nadia Bouazizi",
+      "t7Role": "COO",
+      "t8Quote": "L'une des meilleures data analysts avec qui j'ai travaillé. Elle comprend les besoins métier et livre exactement ce qui est requis.",
+      "t8Name": "Thomas Weber",
+      "t8Role": "Head of Data Science",
+      "t9Quote": "Manar a transformé nos données brutes en un magnifique dashboard que toute notre équipe utilise quotidiennement. Un game changer !",
+      "t9Name": "Leila Mansouri",
+      "t9Role": "Directrice E-commerce",
+      "t10Quote": "Son expertise en SQL et Power BI nous a aidés à découvrir des tendances que nous n'avions jamais soupçonnées. Un travail exceptionnel.",
+      "t10Name": "Omar Khelil",
+      "t10Role": "CTO"
     }
   },
   "expertise": {

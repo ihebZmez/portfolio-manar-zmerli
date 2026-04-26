@@ -113,7 +113,7 @@ export default async function RootLayout({
             {children}
           </ThemeProvider>
         </NextIntlClientProvider>
-        <Script id="tawkto-script" strategy="afterInteractive">
+        {/* <Script id="tawkto-script" strategy="afterInteractive">
           {`
             var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
             (function(){
@@ -125,7 +125,7 @@ export default async function RootLayout({
               s0.parentNode.insertBefore(s1,s0);
             })();
           `}
-        </Script>
+        </Script> */}
       </body>
     </html>
   );

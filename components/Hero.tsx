@@ -65,6 +65,13 @@ const Hero = () => {
           <p className="mb-4 text-center text-sm text-foreground md:text-lg md:tracking-wider lg:text-3xl">
             {t("hero.subtitle")}
           </p>
+          <div className="flex justify-center my-6">
+            <img
+              src="/zmerli manar_hero.png"
+              alt="Manar Zmerli"
+              className="w-32 h-32 md:w-40 md:h-40 lg:w-48 lg:h-48 rounded-full object-cover shadow-lg"
+            />
+          </div>
           <p className="mb-4 pt-14 text-center text-sm text-muted-foreground md:text-lg md:tracking-wider lg:text-2xl">
             <span dir="auto">{t("hero.description")}</span>
           </p>

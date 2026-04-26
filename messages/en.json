@@ -102,25 +102,18 @@
     "items": {
       "sales_dashboard_title": "Sales Performance Dashboard",
       "sales_dashboard_description": "Interactive business dashboard analyzing sales KPIs, revenue trends, and performance indicators using Power BI, SQL, and Excel.",
-
       "customer_segmentation_title": "Customer Segmentation Analysis",
       "customer_segmentation_description": "Customer behavior clustering and segmentation using Python, Pandas, NumPy, and statistical analysis techniques.",
-
       "financial_analysis_title": "Financial Data Analysis",
       "financial_analysis_description": "Financial performance evaluation, profitability analysis, and reporting dashboards built with Excel, Tableau, and SQL databases.",
-
       "marketing_analytics_title": "Marketing Analytics & Campaign Insights",
       "marketing_analytics_description": "Marketing campaign performance analysis and visualization using Python, Matplotlib, Seaborn, and Jupyter Notebook.",
-
       "hr_analytics_title": "HR Analytics Dashboard",
       "hr_analytics_description": "Employee data analysis including retention, performance tracking, and workforce insights powered by PostgreSQL and Power BI.",
-
       "predictive_modeling_title": "Predictive Modeling & Forecasting",
       "predictive_modeling_description": "Machine learning models and statistical forecasting using Python, R, SPSS, SAS, and Apache Spark.",
-
       "data_engineering_title": "Data Engineering Pipeline",
       "data_engineering_description": "Design of automated ETL pipelines and data warehouse architecture using Apache Airflow, dbt, Docker, and AWS.",
-
       "database_management_title": "Database Management & Data Architecture",
       "database_management_description": "Database design, optimization, and version-controlled data workflows using MySQL, MongoDB, PostgreSQL, Git, and GitHub."
     }
@@ -131,26 +124,33 @@
       "t1Quote": "Manar has an exceptional ability to turn complex datasets into clear, actionable insights that directly impacted our decision-making process.",
       "t1Name": "Sarah Johnson",
       "t1Role": "Business Analyst",
-
       "t2Quote": "Her attention to detail and analytical rigor are outstanding. The reports and dashboards she delivered were both accurate and easy to understand.",
       "t2Name": "David Chen",
       "t2Role": "Data Manager",
-
       "t3Quote": "Working with Manar significantly improved our performance tracking. Her dashboards gave us full visibility over our KPIs and growth opportunities.",
       "t3Name": "Amine Ben Salah",
       "t3Role": "Startup CEO",
-
       "t4Quote": "Manar's analytical work helped us identify key growth opportunities we were previously missing in our data.",
       "t4Name": "Michael Brown",
       "t4Role": "Product Manager",
-
       "t5Quote": "Her ability to structure messy datasets and deliver clear dashboards made a real difference in our reporting process.",
       "t5Name": "Emma Wilson",
       "t5Role": "Operations Director",
-
-      "t6Quote": "Her attention to detail and analytical rigor are outstanding. The reports and dashboards she delivered were both accurate and easy to understand.",
-      "t6Name": "David Chen",
-      "t6Role": "Data Manager"
+      "t6Quote": "The dashboards Manar created for our marketing team saved us hours of manual work each week. Highly recommended!",
+      "t6Name": "James Carter",
+      "t6Role": "Marketing Analytics Lead",
+      "t7Quote": "Manar's insights helped us reduce operational costs by 15%. Her analytical approach is methodical and results-driven.",
+      "t7Name": "Nadia Bouazizi",
+      "t7Role": "COO",
+      "t8Quote": "One of the best data analysts I've worked with. She understands business needs and delivers exactly what's required.",
+      "t8Name": "Thomas Weber",
+      "t8Role": "Head of Data Science",
+      "t9Quote": "Manar transformed our raw data into a beautiful dashboard that our entire team uses daily. Game changer!",
+      "t9Name": "Leila Mansouri",
+      "t9Role": "E-commerce Director",
+      "t10Quote": "Her expertise in SQL and Power BI helped us uncover patterns we never knew existed. Exceptional work.",
+      "t10Name": "Omar Khelil",
+      "t10Role": "CTO"
     }
   },
   "expertise": {
@@ -216,23 +216,18 @@
       "data1Title": "Start in Data Analytics",
       "data1Desc": "First projects in data analysis and visualization.",
       "data1Tags": "Excel | SQL | Python",
-
       "data2Title": "BI Development",
       "data2Desc": "Creation of dashboards and automated reporting.",
       "data2Tags": "Power BI | Tableau | Reporting",
-
       "data3Title": "Advanced Analytics",
       "data3Desc": "Statistical modeling and predictive analytics.",
       "data3Tags": "Python | Machine Learning | Statistics",
-
       "data4Title": "Professional Projects",
       "data4Desc": "Data analytics for real companies and business cases.",
       "data4Tags": "BI | Data Analysis | Business",
-
       "data5Title": "Data Optimization",
       "data5Desc": "Improving data pipelines and data quality.",
       "data5Tags": "ETL | SQL | Data Engineering",
-
       "data6Title": "Today",
       "data6Desc": "Data Analyst focused on insights and decision-making.",
       "data6Tags": "Analytics | BI | Strategy"

@@ -1,5 +1,5 @@
 {
-  "templateType": "distribution-company",
+  "templateType": "portfolio",
   "brand": {
     "name": "Manar Zmerli",
     "slogan": "Your trusted business partner",
@@ -9,7 +9,11 @@
   },
   "i18n": {
     "defaultLanguage": "fr",
-    "supportedLanguages": ["fr", "ar", "en"],
+    "supportedLanguages": [
+      "fr",
+      "ar",
+      "en"
+    ],
     "direction": "ltr"
   },
   "theme": {
@@ -21,17 +25,17 @@
   },
   "contact": {
     "phone": "+216 54 11 18 22",
-    "email": "contact@company.tn",
+    "email": "zmerlimanar@gmail.com",
     "address": "Tunis, Tunisia",
     "googleMaps": "",
-    "workingHours": "Mon - Fri: 08:00 - 18:00"
+    "workingHours": "Mon - Fri: 08:00 - 20:00"
   },
   "social": {
-    "facebook": "https://www.facebook.com/companyistributioncompany",
-    "instagram": "https://www.instagram.com/companyistributioncompany",
-    "linkedin": "https://www.linkedin.com/company/companyistributioncompany",
-    "tiktok": "https://www.tiktok.com/company/companyistributioncompany",
-    "youtube": "https://www.youtube.com/company/companyistributioncompany"
+    "facebook": "https://www.facebook.com/rourou458768768/?locale=fr_CA",
+    "instagram": "https://www.instagram.com/manar_zmerli/",
+    "linkedin": "https://www.linkedin.com/in/manar-zmerli-3961931a3?originalSubdomain=tn",
+    "tiktok": "https://www.tiktok.com",
+    "youtube": "https://www.youtube.com"
   },
   "features": {
     "showNavbar": true,
